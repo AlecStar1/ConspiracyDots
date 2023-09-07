@@ -7,7 +7,10 @@
 
 
 
-
+gtag('event', 'select_shit', {
+  'app_name': 'nodeproject-df641',
+  'nodetype': 'Global'
+});
 
 // waits for all of the jsons before doing anything
 var startOffsetX = 0;
