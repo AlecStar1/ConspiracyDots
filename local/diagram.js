@@ -1,6 +1,10 @@
 // main code
 
-// waits for all of the jsons before doing anything
+// waits for all of the jsons before doing anything --irrevelant comment now
+gtag('event', 'select_shit', {
+  'app_name': 'nodeproject-df641',
+  'nodetype': 'Local'
+});
 var startOffsetX = 0;
 var startOffsetY = 0;
 var offsetX = 0;
