@@ -237,6 +237,15 @@ window.addEventListener('mousewheel', (event) => {
     updateNODE(document.getElementById('linker').class, null, null, null)
     refresh()
   });
+
+  function getPathData(d){
+  //   .attr('x1', d => getNodeX(d.source)*width+offsetX+totaloffsetX)
+  //   .attr('y1', d => getNodeY(d.source)*height+offsetY+totaloffsetY)
+  //   .attr('x2', d => getNodeX(d.target)*width+offsetX+totaloffsetX)
+  //   .attr('y2', d => getNodeY(d.target)*height+offsetY+totaloffsetY)
+    return `M${getNodeX(d.source)*width+offsetX+totaloffsetX},${getNodeY(d.source)*height+offsetY+totaloffsetY}
+    ,${getNodeX(d.target)*width+offsetX+totaloffsetX},${getNodeY(d.target)*height+offsetY+totaloffsetY}`;
+  }
   
   function refresh() { // initalizes the lines
   svg.html("")
@@ -244,11 +253,8 @@ window.addEventListener('mousewheel', (event) => {
   svg.selectAll('line')
     .data(links)
     .enter()
-    .append('line')
-    .attr('x1', d => getNodeX(d.source)*width+offsetX+totaloffsetX)
-    .attr('y1', d => getNodeY(d.source)*height+offsetY+totaloffsetY)
-    .attr('x2', d => getNodeX(d.target)*width+offsetX+totaloffsetX)
-    .attr('y2', d => getNodeY(d.target)*height+offsetY+totaloffsetY)
+    .append('path')
+    .attr("d", d => getPathData(d))
     .attr('stroke-width', zoom)
     .attr('stroke', 'lightgray');
 
@@ -561,11 +567,11 @@ refresh()
     }
   // ajusts the lines if the page is resized
   function updateLinks() {
-    svg.selectAll('line')
-      .attr('x1', d => getNodeX(d.source)*width+offsetX+totaloffsetX)
-      .attr('y1', d => getNodeY(d.source)*height+offsetY+totaloffsetY)
-      .attr('x2', d => getNodeX(d.target)*width+offsetX+totaloffsetX)
-      .attr('y2', d => getNodeY(d.target)*height+offsetY+totaloffsetY);
+    svg.selectAll('path')
+      .attr('d', d => getPathData(d))
+      // .attr('y1', d => getNodeY(d.source)*height+offsetY+totaloffsetY)
+      // .attr('x2', d => getNodeX(d.target)*width+offsetX+totaloffsetX)
+      // .attr('y2', d => getNodeY(d.target)*height+offsetY+totaloffsetY);
   }
 
   // makes a php post request to fix.php which will update the global JSON
