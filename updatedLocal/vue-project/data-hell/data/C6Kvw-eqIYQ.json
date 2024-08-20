@@ -1,0 +1,22 @@
+{
+    "name": "Nick",
+    "gender": 1,
+    "major": "Software Engineering/Computer Science",
+    "from": "",
+    "hobbies": [
+        "video games",
+        "music",
+        "working out",
+        "investing",
+        "hiking",
+        "cars",
+        "making things"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@nick_niles",
+        "snapchat": "nick_n15"
+    },
+    "Music": [],
+    "roomate": true
+}

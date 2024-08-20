@@ -1,0 +1,20 @@
+{
+    "name": "Ibrahim Chandavarkar",
+    "gender": 1,
+    "major": "Finance",
+    "from": "Westborough, MA",
+    "hobbies": [
+        "MMA",
+        "Gym",
+        "Reading (Classics and Philosophy)",
+        "Traveling",
+        "Going out",
+        "Watching movies"
+    ],
+    "committed": 2,
+    "Music": [],
+    "contact": {
+        "instagram": "@ibrahim_chn25"
+    },
+    "roomate": true
+}

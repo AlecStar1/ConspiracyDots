@@ -1,0 +1,20 @@
+{
+    "name": "Gabriella",
+    "gender": 2,
+    "major": "ASL-English Interpretation",
+    "from": "East Coast",
+    "hobbies": [
+        "quality time with friends",
+        "trying new foods",
+        "rollercoasters",
+        "concerts",
+        "baking",
+        "raising awareness for alopecia"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "@gabriellaacimmino"
+    },
+    "roomate": true
+}

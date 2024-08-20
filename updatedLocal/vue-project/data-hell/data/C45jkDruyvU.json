@@ -1,0 +1,20 @@
+{
+    "name": "Ryan",
+    "gender": 1,
+    "major": "Mechanical Engineering Technologies",
+    "hobbies": [
+        "building models (Lego as well)",
+        "singing",
+        "exploring",
+        "snowboarding",
+        "antiquing"
+    ],
+    "committed": 1,
+    "from": "Kingston, NH",
+    "Music": [],
+    "contact": {
+        "instagram": "@cornchips1234",
+        "snapchat": "cornchips123478"
+    },
+    "roomate": true
+}

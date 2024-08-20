@@ -1,0 +1,18 @@
+{
+    "name": "Carissa",
+    "gender": 2,
+    "major": "Criminal Justice",
+    "hobbies": [
+        "Music",
+        "Photography",
+        "Tennis"
+    ],
+    "from": "Seekonk, MA",
+    "contact": {
+        "instagram": "@carissamason78",
+        "snapchat": "carissamason423"
+    },
+    "committed": 1,
+    "Music": [],
+    "roomate": true
+}

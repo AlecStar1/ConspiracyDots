@@ -1,0 +1,18 @@
+{
+    "name": "Em",
+    "gender": 2,
+    "major": "American Sign Language Interpreting",
+    "from": "Avon, Connecticut, but grew up in South Shore, Massachusetts",
+    "hobbies": [
+        "painting",
+        "spending time with others",
+        "animals"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@emilymweldon",
+        "snapchat": "emweld"
+    },
+    "Music": [],
+    "roomate": true
+}

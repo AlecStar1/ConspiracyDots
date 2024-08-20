@@ -1,0 +1,19 @@
+{
+    "name": "Amy",
+    "gender": 2,
+    "major": "Engineering Exploration",
+    "hobbies": [
+        "playing sports",
+        "running",
+        "reading",
+        "traveling"
+    ],
+    "committed": 1,
+    "from": "Avon, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@awebster06",
+        "snapchat": "@a_webster132"
+    },
+    "roomate": true
+}

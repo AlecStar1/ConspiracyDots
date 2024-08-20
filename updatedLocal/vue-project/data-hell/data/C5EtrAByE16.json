@@ -1,0 +1,19 @@
+{
+    "name": "Liam",
+    "gender": 1,
+    "major": "Graphic Design",
+    "hobbies": [
+        "ASL",
+        "Art"
+    ],
+    "committed": 2,
+    "from": "Not mentioned",
+    "Music": [
+        "Not mentioned"
+    ],
+    "contact": {
+        "instagram": "@liamlaco",
+        "snapchat": "thisuserisliam"
+    },
+    "roomate": true
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Bryce",
+    "gender": 1,
+    "major": "Biomedical Engineering",
+    "hobbies": [
+        "rowing",
+        "gym",
+        "history",
+        "animals"
+    ],
+    "from": "Avon, Connecticut",
+    "Music": [],
+    "contact": {
+        "snapchat": "bryce201913",
+        "instagram": "@bryce_the_edge"
+    },
+    "committed": 3,
+    "roomate": true
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Camille",
+    "gender": 1,
+    "major": "Undecided",
+    "hobbies": [
+        "cheering",
+        "listening to music",
+        "hanging out with friends",
+        "being around family",
+        "reading",
+        "writing"
+    ],
+    "committed": 1,
+    "from": "Lancaster, PA",
+    "contact": {
+        "instagram": "@camille_r25"
+    },
+    "Music": [
+        "pop",
+        "rock"
+    ],
+    "roomate": false
+}

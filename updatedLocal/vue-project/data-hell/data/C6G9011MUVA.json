@@ -1,0 +1,19 @@
+{
+    "name": "Martin",
+    "gender": 1,
+    "major": "Mechanical Engineering",
+    "hobbies": [
+        "cars",
+        "motorsports",
+        "karate"
+    ],
+    "committed": 2,
+    "from": "Fort Lee NJ",
+    "contact": {
+        "instagram": "@martin_bassett"
+    },
+    "Music": [
+        "metal"
+    ],
+    "roomate": true
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Allison",
+    "gender": 2,
+    "major": "Packaging Science",
+    "hobbies": [
+        "reading",
+        "listening to music",
+        "hanging out with friends"
+    ],
+    "committed": 1,
+    "from": "Washingtonville, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@allison.schlimme"
+    },
+    "roomate": true
+}

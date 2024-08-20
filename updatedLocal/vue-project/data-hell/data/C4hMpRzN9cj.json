@@ -1,0 +1,25 @@
+{
+    "name": "Sophia",
+    "gender": 2,
+    "major": "New Media Design",
+    "hobbies": [
+        "baking",
+        "drawing",
+        "painting",
+        "working out",
+        "listening to music"
+    ],
+    "committed": 1,
+    "from": "Hawley, PA",
+    "Music": [
+        "DPR Ian",
+        "Stray Kids",
+        "CAKE",
+        "Men I Trust"
+    ],
+    "contact": {
+        "instagram": "@sletki",
+        "snapchat": "let.ki"
+    },
+    "roomate": true
+}

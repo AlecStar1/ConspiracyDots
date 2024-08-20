@@ -1,0 +1,23 @@
+{
+    "name": "Amelia",
+    "gender": 2,
+    "major": "",
+    "from": "Cleveland, Ohio",
+    "hobbies": [
+        "reading",
+        "singing",
+        "playing Fortnite",
+        "making slime",
+        "watching Bob's Burgers",
+        "watching RuPaul's Drag Race"
+    ],
+    "committed": 2,
+    "contact": {
+        "instagram": "@ameliakohrr",
+        "snapchat": "akxhr"
+    },
+    "Music": [
+        "Beyonce"
+    ],
+    "roomate": true
+}

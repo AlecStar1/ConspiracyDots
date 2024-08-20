@@ -1,0 +1,21 @@
+{
+    "name": "Gabe Kennedy",
+    "gender": 1,
+    "major": "Computing Exploration",
+    "hobbies": [
+        "jazz",
+        "classical music",
+        "saxophonist"
+    ],
+    "committed": 1,
+    "from": "Poughkeepsie, NY",
+    "contact": {
+        "instagram": "@gabe_is_rly_tall",
+        "snapchat": "gab-istall"
+    },
+    "Music": [
+        "jazz",
+        "classical"
+    ],
+    "roomate": true
+}

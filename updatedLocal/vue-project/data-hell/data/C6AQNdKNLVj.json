@@ -1,0 +1,16 @@
+{
+    "name": "Richard",
+    "gender": 1,
+    "major": "Computer Engineering Technology",
+    "hobbies": [
+        "basketball",
+        "making 2D video games with Unity engine"
+    ],
+    "committed": 1,
+    "from": "Brooklyn, NY",
+    "contact": {
+        "instagram": "@richyhewu"
+    },
+    "Music": [],
+    "roomate": true
+}

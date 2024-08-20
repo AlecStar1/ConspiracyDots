@@ -1,0 +1,20 @@
+{
+    "name": "Nate",
+    "gender": 1,
+    "major": "Mechanical Engineering",
+    "hobbies": [
+        "hiking",
+        "fishing",
+        "cars/trucks",
+        "Star Wars",
+        "running"
+    ],
+    "committed": 1,
+    "from": "Montrose, PA",
+    "Music": [],
+    "contact": {
+        "name": "Instagram: @nsinkovich36",
+        "type": "snapchat: darth_nate36"
+    },
+    "roomate": true
+}

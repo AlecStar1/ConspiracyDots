@@ -1,0 +1,21 @@
+{
+    "name": "Luke",
+    "gender": 1,
+    "major": "Computer Science",
+    "hobbies": [
+        "Cars",
+        "Sports",
+        "Watching Movies",
+        "Working Out",
+        "Golfing",
+        "Robotics",
+        "Hanging out with friends"
+    ],
+    "committed": 2,
+    "from": "Northeastern PA",
+    "Music": [],
+    "contact": {
+        "instagram": "@luke_farrell26"
+    },
+    "roomate": true
+}

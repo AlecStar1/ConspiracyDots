@@ -1,0 +1,20 @@
+{
+    "name": "Natania",
+    "gender": 2,
+    "major": "Photojournalism",
+    "from": "Rockville, MD",
+    "hobbies": [
+        "photography",
+        "music",
+        "fashion",
+        "pop culture",
+        "theatre tech"
+    ],
+    "committed": 2,
+    "Music": [],
+    "contact": {
+        "instagram": "@gnatkrebs",
+        "snapchat": "nataniak"
+    },
+    "roomate": true
+}

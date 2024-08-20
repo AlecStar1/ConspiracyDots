@@ -1,0 +1,21 @@
+{
+    "name": "Sylvia",
+    "gender": 2,
+    "major": "chemical engineering",
+    "from": null,
+    "hobbies": [
+        "volleyball",
+        "softball",
+        "basketball",
+        "tennis",
+        "reading",
+        "hanging out"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "snapchat": "sylviawhite2006",
+        "instagram": "_sylvia_white"
+    },
+    "roomate": true
+}

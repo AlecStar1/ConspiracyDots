@@ -1,0 +1,17 @@
+{
+    "name": "Amy Miguel",
+    "gender": 2,
+    "major": "",
+    "hobbies": [
+        "playing the drums",
+        "photography",
+        "drawing"
+    ],
+    "committed": 1,
+    "from": "Fort Myers, FL",
+    "Music": [],
+    "contact": {
+        "instagram": "@xquedaclaw"
+    },
+    "roomate": true
+}

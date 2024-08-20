@@ -1,0 +1,18 @@
+{
+    "name": "Antoine Phillips",
+    "gender": 1,
+    "major": "Precision Manufacturing Technology (PMT)",
+    "hobbies": [
+        "spike ball",
+        "basketball",
+        "outdoor activities"
+    ],
+    "from": "Alton Illinois",
+    "Music": [],
+    "contact": {
+        "instagram": "@antoine23crazy",
+        "snapchat": "antoine23crazy"
+    },
+    "committed": 3,
+    "roomate": true
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Ana Beatriz",
+    "gender": 2,
+    "major": "Graphic Design",
+    "from": "Brazil",
+    "hobbies": [
+        "traveling",
+        "cooking",
+        "listening to music",
+        "drawing"
+    ],
+    "committed": 3,
+    "Music": [],
+    "contact": {
+        "instagram": "@ana_bmendes",
+        "snapchat": "@ana_bmendes"
+    },
+    "roomate": true
+}

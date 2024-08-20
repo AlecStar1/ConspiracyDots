@@ -1,0 +1,17 @@
+{
+    "name": "Maddy",
+    "gender": 2,
+    "major": "Engineering Exploration Program",
+    "hobbies": [
+        "Drawing",
+        "Writing",
+        "Listening to Music"
+    ],
+    "committed": 1,
+    "from": "Outside of Buffalo, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@maddyv26"
+    },
+    "roomate": true
+}

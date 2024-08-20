@@ -1,0 +1,17 @@
+{
+    "name": "Teah",
+    "gender": 1,
+    "major": "Graphic Design",
+    "hobbies": [
+        "Arts and crafts",
+        "Sports",
+        "Music"
+    ],
+    "committed": 1,
+    "from": "Rochester area",
+    "Music": [],
+    "contact": {
+        "instagram": "@teah.silliman"
+    },
+    "roomate": true
+}

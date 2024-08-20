@@ -1,0 +1,16 @@
+{
+    "name": "Dominic Armento",
+    "gender": 1,
+    "major": "Computer Engineering",
+    "hobbies": [
+        ""
+    ],
+    "from": "New Jersey",
+    "Music": [],
+    "committed": 2,
+    "contact": {
+        "instagram": "@domarmento",
+        "snapchat": "domarmento"
+    },
+    "roomate": true
+}

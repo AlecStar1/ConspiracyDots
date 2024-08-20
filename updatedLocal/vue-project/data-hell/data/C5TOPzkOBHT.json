@@ -1,0 +1,17 @@
+{
+    "name": "Kai",
+    "gender": 1,
+    "major": "American Sign Language",
+    "from": "California",
+    "hobbies": [
+        "performing arts",
+        "exploring",
+        "trying new places to eat"
+    ],
+    "committed": 2,
+    "Music": [],
+    "contact": {
+        "instagram": "@mwah.kai"
+    },
+    "roomate": true
+}

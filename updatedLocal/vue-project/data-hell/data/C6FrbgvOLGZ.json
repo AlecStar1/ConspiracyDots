@@ -1,0 +1,17 @@
+{
+    "name": "Carlia",
+    "gender": 2,
+    "major": "Illustration",
+    "hobbies": [
+        "video games",
+        "anime",
+        "manga"
+    ],
+    "committed": 1,
+    "from": "Orlando, Florida",
+    "Music": [],
+    "contact": {
+        "instagram": "@carliaidkwhatelsetoput"
+    },
+    "roomate": true
+}

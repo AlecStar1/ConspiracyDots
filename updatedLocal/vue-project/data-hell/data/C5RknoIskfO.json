@@ -1,0 +1,24 @@
+{
+    "name": "Sam Englebert",
+    "gender": 1,
+    "major": [
+        "Political Science",
+        "Journalism"
+    ],
+    "hobbies": [
+        "Theatre",
+        "Video Games",
+        "Older Movies"
+    ],
+    "committed": 1,
+    "from": "Rochester, NY",
+    "contact": {
+        "instagram": "@smasamsmaa",
+        "snapchat": "sam_englebert"
+    },
+    "Music": [
+        "Classic Rock",
+        "Indie Music"
+    ],
+    "roomate": true
+}

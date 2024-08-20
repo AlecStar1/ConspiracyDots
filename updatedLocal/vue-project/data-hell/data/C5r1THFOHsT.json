@@ -1,0 +1,20 @@
+{
+    "name": "NOT FUCKIUNG RIGHT",
+    "gender": 2,
+    "major": "Computer Science",
+    "hobbies": [
+        "music",
+        "reading",
+        "cooking/baking",
+        "hiking",
+        "traveling"
+    ],
+    "committed": 1,
+    "from": "Florida",
+    "Music": [],
+    "contact": {
+        "Instagram": "@alicia_17495",
+        "Snapchat": "sunset_13_96"
+    },
+    "roomate": true
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Wyatt Moss",
+    "gender": 1,
+    "major": "Film and Animation",
+    "hobbies": [
+        "movies",
+        "video games"
+    ],
+    "committed": 1,
+    "from": null,
+    "contact": {
+        "instagram": "@wyatt_moss__",
+        "snapchat": "yit_moose"
+    },
+    "Music": [
+        "Marvel Soundtracks"
+    ],
+    "roomate": true
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Maci",
+    "gender": 2,
+    "major": "Diagnostic Medical Sonography",
+    "hobbies": [
+        "hanging out with friends",
+        "going to concerts",
+        "listening to music"
+    ],
+    "committed": 1,
+    "from": "Rochester, NY",
+    "contact": {
+        "instagram": "@macibushart",
+        "snapchat": "maci.bushart"
+    },
+    "Music": [],
+    "roomate": true
+}

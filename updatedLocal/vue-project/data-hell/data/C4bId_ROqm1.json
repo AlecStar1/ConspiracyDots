@@ -1,0 +1,20 @@
+{
+    "name": "Ava",
+    "gender": 2,
+    "major": "Biotechnology",
+    "hobbies": [
+        "reading",
+        "watching movies",
+        "listening to music",
+        "hanging out with friends",
+        "playing percussion",
+        "running"
+    ],
+    "committed": 1,
+    "from": "Ballston Lake, New York",
+    "Music": [],
+    "contact": {
+        "instagram": "@ava.e.day"
+    },
+    "roomate": true
+}

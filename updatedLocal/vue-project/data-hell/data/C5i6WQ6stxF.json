@@ -1,0 +1,26 @@
+{
+    "name": "Lilly",
+    "gender": 2,
+    "major": "Computer Science",
+    "hobbies": [
+        "going to the gym",
+        "listening to music",
+        "going to the beach",
+        "going to concerts",
+        "hanging out with friends"
+    ],
+    "committed": 3,
+    "from": "Shrewsbury, Massachusetts",
+    "contact": {
+        "instagram": "@lillykulakusky",
+        "snapchat": "lillykulakusky"
+    },
+    "Music": [
+        "Brent Faiyaz",
+        "21 Savage",
+        "Drake",
+        "The Weeknd",
+        "SZA"
+    ],
+    "roomate": true
+}

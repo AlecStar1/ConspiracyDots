@@ -1,0 +1,21 @@
+{
+    "name": "Annie",
+    "gender": 2,
+    "major": "Microelectronics Engineering",
+    "hobbies": [
+        "Concerts",
+        "Beach",
+        "Scenic drives",
+        "R&B music"
+    ],
+    "from": "Newburyport, Massachusetts",
+    "Music": [
+        "R&B"
+    ],
+    "contact": {
+        "Instagram": "@annievio.la",
+        "Snapchat": "annievviola"
+    },
+    "committed": 1,
+    "roomate": true
+}

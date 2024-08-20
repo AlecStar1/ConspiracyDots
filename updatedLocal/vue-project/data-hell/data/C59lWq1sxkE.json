@@ -1,0 +1,20 @@
+{
+    "name": "Ava",
+    "gender": 2,
+    "major": "industrial design",
+    "from": "Rochester, NY",
+    "hobbies": [
+        "shopping",
+        "running",
+        "snowboarding",
+        "soccer",
+        "track and cross country"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "@avaros.e",
+        "snapchat": "avaro.se"
+    },
+    "roomate": false
+}

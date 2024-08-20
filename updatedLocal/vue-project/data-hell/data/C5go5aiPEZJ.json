@@ -1,0 +1,21 @@
+{
+    "name": "Debra",
+    "gender": 2,
+    "major": "Computer Science",
+    "hobbies": [
+        "Volleyball",
+        "Traveling",
+        "Food",
+        "Art",
+        "Music",
+        "Painting",
+        "Playing Piano"
+    ],
+    "committed": 1,
+    "from": "Costa Rica",
+    "contact": {
+        "instagram": "@dddebra___"
+    },
+    "Music": [],
+    "roomate": true
+}

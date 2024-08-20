@@ -1,0 +1,13 @@
+{
+    "gender": 2,
+    "name": "Aija",
+    "committed": 3,
+    "hobbies": [],
+    "major": "Diagnostic Medical Sonography",
+    "from": "Allentown, PA",
+    "Music": [],
+    "contact": {
+        "Instagram": "@aijalyfe"
+    },
+    "roomate": false
+}

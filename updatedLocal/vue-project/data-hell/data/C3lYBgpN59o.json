@@ -1,0 +1,20 @@
+{
+    "name": "Asher",
+    "gender": 1,
+    "major": [
+        "politics",
+        "journalism"
+    ],
+    "hobbies": [
+        "basketball",
+        "drawing",
+        "video games"
+    ],
+    "committed": 2,
+    "from": "Northern Virginia",
+    "Music": [],
+    "contact": {
+        "instagram": "@asherbrennannn"
+    },
+    "roomate": true
+}

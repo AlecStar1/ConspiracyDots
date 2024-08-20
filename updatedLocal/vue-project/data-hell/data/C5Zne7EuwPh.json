@@ -1,0 +1,20 @@
+{
+    "name": "Danashia",
+    "gender": 2,
+    "major": "Advertisement Photography",
+    "minor": "Digital Design",
+    "hobbies": [
+        "reading",
+        "music",
+        "cooking",
+        "photography"
+    ],
+    "committed": 1,
+    "from": "Rochester, NY",
+    "contact": {
+        "instagram": "@ysk.danashia",
+        "snapchat": "@ysk.danashia"
+    },
+    "Music": [],
+    "roomate": true
+}

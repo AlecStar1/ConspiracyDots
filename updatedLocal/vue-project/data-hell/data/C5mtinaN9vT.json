@@ -1,0 +1,17 @@
+{
+    "name": "Georgina",
+    "gender": 2,
+    "major": "Computer Science/Software Engineering",
+    "hobbies": [
+        "reading",
+        "watching TV",
+        "hanging out with friends"
+    ],
+    "committed": 1,
+    "from": "Rockville, Maryland (30 minutes from DC)",
+    "Music": [],
+    "contact": {
+        "instagram": "@_georgxnaa"
+    },
+    "roomate": true
+}

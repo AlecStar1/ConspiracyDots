@@ -1,0 +1,21 @@
+{
+    "name": "Deven",
+    "gender": 1,
+    "major": "Mechanical Engineering Technology",
+    "hobbies": [
+        "fashion",
+        "music",
+        "traveling",
+        "concerts",
+        "skateboarding",
+        "hanging with friends"
+    ],
+    "committed": 1,
+    "from": "Rochester, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@deven_x_rao",
+        "snapchat": "deven_x_rao"
+    },
+    "roomate": true
+}

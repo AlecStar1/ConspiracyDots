@@ -1,0 +1,22 @@
+{
+    "name": "Dylan",
+    "gender": 1,
+    "major": "Mechanical Engineering",
+    "hobbies": [
+        "dogs",
+        "skiing",
+        "lifting",
+        "random adventures"
+    ],
+    "committed": 2,
+    "from": "Amesbury MA",
+    "Music": [
+        "indie",
+        "country"
+    ],
+    "contact": {
+        "instagram": "@dfletty",
+        "snapchat": "dylan.flett32"
+    },
+    "roomate": true
+}

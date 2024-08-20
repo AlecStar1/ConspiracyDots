@@ -1,0 +1,21 @@
+{
+    "name": "Rachel Smith",
+    "gender": 2,
+    "major": "Biology",
+    "hobbies": [
+        "music",
+        "yoga",
+        "hanging out with friends",
+        "shopping",
+        "traveling",
+        "going to games"
+    ],
+    "committed": 1,
+    "from": "LeRoy, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@rsmith.501",
+        "snapchat": "rsmith.501"
+    },
+    "roomate": true
+}

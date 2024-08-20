@@ -1,0 +1,19 @@
+{
+    "name": "Megan Kelly",
+    "gender": 2,
+    "major": "Mechanical Engineering with a minor in Aerospace and Sustainability",
+    "hobbies": [
+        "going out with friends",
+        "being outside",
+        "learning new things",
+        "gymnastics"
+    ],
+    "committed": 2,
+    "from": "Rhode Island",
+    "contact": {
+        "Instagram": "@_.megan kelly._",
+        "Snapchat": "megan_kelly72"
+    },
+    "Music": [],
+    "roomate": true
+}

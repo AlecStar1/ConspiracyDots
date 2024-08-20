@@ -1,0 +1,22 @@
+{
+    "name": "Louie",
+    "gender": 1,
+    "major": [
+        "computer science",
+        "cybersecurity"
+    ],
+    "from": "Groveland, MA",
+    "hobbies": [
+        "lifting",
+        "being outside",
+        "playing football",
+        "hanging out with friends"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@depalma.louie",
+        "snapchat": "louie_depalma"
+    },
+    "Music": [],
+    "roomate": true
+}

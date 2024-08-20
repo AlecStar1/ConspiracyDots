@@ -1,0 +1,19 @@
+{
+    "name": "Keira",
+    "gender": 2,
+    "major": "Diagnostic Medical Sonography",
+    "from": "Buffalo, NY",
+    "hobbies": [
+        "Going out with friends",
+        "Kickboxing",
+        "Shopping",
+        "Getting nails done"
+    ],
+    "committed": 2,
+    "Music": [],
+    "contact": {
+        "instagram": "@keira_waggs",
+        "snapchat": "keirbear_waggs"
+    },
+    "roomate": true
+}

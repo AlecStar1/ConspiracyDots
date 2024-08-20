@@ -1,0 +1,19 @@
+{
+    "name": "Maxwell Poray",
+    "gender": 1,
+    "major": "Diagnostic Medical Sonography",
+    "hobbies": [
+        "Soccer",
+        "Tennis",
+        "Water",
+        "Fishing",
+        "Reading"
+    ],
+    "committed": 1,
+    "from": "Chili, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "onebuffalo841"
+    },
+    "roomate": true
+}

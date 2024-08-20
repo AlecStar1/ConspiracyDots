@@ -1,0 +1,23 @@
+{
+    "name": "Cole",
+    "gender": 1,
+    "major": "Game Development and Design",
+    "hobbies": [
+        "football",
+        "DND",
+        "Pokemon",
+        "video games",
+        "hanging out with friends",
+        "dogs",
+        "movies"
+    ],
+    "committed": 1,
+    "from": "St. Louis, Missouri",
+    "Music": [],
+    "contact": {
+        "instagram": "@cole_hartig",
+        "snapchat": "https://t.snapchat.com/wvrfhsqf",
+        "discord": "cramptyz"
+    },
+    "roomate": true
+}

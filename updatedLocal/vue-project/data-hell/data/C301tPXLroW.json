@@ -1,0 +1,15 @@
+{
+    "name": "Jed",
+    "gender": 1,
+    "major": "Finance",
+    "hobbies": [
+        "soccer"
+    ],
+    "committed": 2,
+    "from": "Arlington, VA",
+    "Music": [],
+    "contact": {
+        "instagram": "@j3d1_6"
+    },
+    "roomate": true
+}

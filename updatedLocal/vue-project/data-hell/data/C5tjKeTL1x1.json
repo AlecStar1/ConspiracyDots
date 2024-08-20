@@ -1,0 +1,21 @@
+{
+    "name": "Suhani Aggarwal",
+    "gender": 2,
+    "major": "CS",
+    "from": "Chicago",
+    "hobbies": [
+        "reading",
+        "long walks",
+        "rom coms",
+        "tv shows",
+        "listening to music"
+    ],
+    "committed": 3,
+    "Music": [
+        "unspecified"
+    ],
+    "contact": {
+        "instagram": "@suhani3337"
+    },
+    "roomate": true
+}

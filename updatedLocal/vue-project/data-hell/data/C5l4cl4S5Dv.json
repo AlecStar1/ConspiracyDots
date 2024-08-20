@@ -1,0 +1,20 @@
+{
+    "name": "Jenna",
+    "gender": 2,
+    "major": "Packaging Science",
+    "hobbies": [
+        "music",
+        "concerts",
+        "movies",
+        "walks",
+        "hanging out with friends"
+    ],
+    "committed": 1,
+    "from": "Rochester, NY",
+    "contact": {
+        "instagram": "@jennaechan",
+        "snapchat": "jennachan12"
+    },
+    "Music": [],
+    "roomate": true
+}

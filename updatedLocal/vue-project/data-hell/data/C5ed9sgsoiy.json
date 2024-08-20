@@ -1,0 +1,22 @@
+{
+    "name": "Maddy",
+    "gender": 2,
+    "major": "Motion Picture Sciences",
+    "from": "",
+    "hobbies": [
+        "Art",
+        "Movies",
+        "Video Games",
+        "Field Hockey",
+        "Softball"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@maddy_aldous",
+        "snapchat": "mad_ald333"
+    },
+    "Music": [
+        "The Killers"
+    ],
+    "roomate": true
+}

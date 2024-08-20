@@ -1,0 +1,18 @@
+{
+    "name": "Gabby",
+    "gender": 2,
+    "major": "Biology",
+    "hobbies": [
+        "eating out",
+        "shopping",
+        "watching movies"
+    ],
+    "committed": 2,
+    "from": "Western Massachusetts",
+    "contact": {
+        "instagram": "@gabrielabaldwinn",
+        "snapchat": "gbaldwin65"
+    },
+    "Music": [],
+    "roomate": true
+}

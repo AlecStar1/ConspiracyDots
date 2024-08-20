@@ -1,0 +1,22 @@
+{
+    "name": "Elena",
+    "gender": 2,
+    "major": "Physician Assistant",
+    "hobbies": [
+        "Concerts",
+        "Hanging out with friends/family",
+        "Crocheting/Knitting",
+        "Art museums",
+        "Flea markets",
+        "Exploring new coffee shops"
+    ],
+    "from": "Rochester, NY",
+    "Music": [],
+    "contact": {
+        "name": "Elena",
+        "instagram": "@elenalesniak_",
+        "snapchat": "elenalesniak_06"
+    },
+    "committed": 1,
+    "roomate": true
+}

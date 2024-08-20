@@ -1,0 +1,19 @@
+{
+    "name": "Jason",
+    "gender": 1,
+    "major": "Computer Engineering BS/MS",
+    "from": "Webster, NY",
+    "hobbies": [
+        "bowling",
+        "golf",
+        "basketball",
+        "video games"
+    ],
+    "committed": 3,
+    "Music": [],
+    "contact": {
+        "snapchat": "jasonbradbury10",
+        "instagram": "@jason_bradbury01"
+    },
+    "roomate": true
+}

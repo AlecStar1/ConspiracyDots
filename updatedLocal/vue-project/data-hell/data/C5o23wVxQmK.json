@@ -1,0 +1,24 @@
+{
+    "name": "Tanvi",
+    "gender": 2,
+    "major": "Computer Engineering",
+    "from": "Delhi, India",
+    "hobbies": [
+        "movies",
+        "reading",
+        "travelling",
+        "hanging out with friends",
+        "debating",
+        "MUNing",
+        "theatre"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@tanviii_15"
+    },
+    "Music": [
+        "pop",
+        "country"
+    ],
+    "roomate": true
+}

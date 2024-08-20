@@ -1,0 +1,23 @@
+{
+    "name": "Diana Osorio",
+    "gender": 2,
+    "major": [
+        "biology",
+        "criminal justice"
+    ],
+    "hobbies": [
+        "color guard",
+        "cooking",
+        "hanging out with friends",
+        "going for a walk",
+        "sunset picnic",
+        "watching sunrise/sunset"
+    ],
+    "committed": 2,
+    "from": "Miami, FL",
+    "Music": [],
+    "contact": {
+        "instagram": "@pixelkitti_24"
+    },
+    "roomate": true
+}

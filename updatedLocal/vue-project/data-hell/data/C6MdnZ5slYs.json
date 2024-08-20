@@ -1,0 +1,20 @@
+{
+    "name": "Itzel",
+    "gender": 2,
+    "major": "Mechanical Engineering",
+    "hobbies": [
+        "photography",
+        "music",
+        "art",
+        "makeup",
+        "driving",
+        "musicals"
+    ],
+    "committed": 1,
+    "from": "Rockland, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@itze_.09"
+    },
+    "roomate": true
+}

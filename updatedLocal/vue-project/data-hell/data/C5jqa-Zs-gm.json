@@ -1,0 +1,33 @@
+{
+    "name": "Shadman",
+    "gender": 1,
+    "major": "Supply Chain Management",
+    "from": {
+        "country": [
+            "Belgium",
+            "Bangladesh"
+        ],
+        "city": [
+            "Ridgewood, NJ"
+        ]
+    },
+    "hobbies": [
+        "house & EDM music",
+        "horror movies",
+        "hanging out with friends",
+        "basketball",
+        "car related activities",
+        "reading",
+        "picking up new languages",
+        "working on projects/building things"
+    ],
+    "committed": 2,
+    "Music": [
+        "house",
+        "EDM"
+    ],
+    "contact": {
+        "instagram": "@shadmanq_"
+    },
+    "roomate": true
+}

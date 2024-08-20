@@ -1,0 +1,19 @@
+{
+    "name": "Natalie",
+    "gender": 2,
+    "major": "Engineering Technology Exploration Program",
+    "hobbies": [
+        "hanging out with friends",
+        "concerts",
+        "reading",
+        "late night car rides"
+    ],
+    "committed": 1,
+    "from": "Rochester, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "_natbaldwin",
+        "snapchat": "nat-baldwin"
+    },
+    "roomate": true
+}

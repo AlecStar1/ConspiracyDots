@@ -1,0 +1,19 @@
+{
+    "name": "Gharvin",
+    "gender": 1,
+    "major": "electrical engineering",
+    "hobbies": [
+        "anime",
+        "fencing (foil)",
+        "gaming",
+        "lifting",
+        "j-pop"
+    ],
+    "committed": 2,
+    "from": "Hartsdale",
+    "Music": [],
+    "contact": {
+        "instagram": "@gharvin.ramnarase"
+    },
+    "roomate": true
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Christian Morrow",
+    "gender": 1,
+    "major": "New Media Design",
+    "from": "Syracuse, New York",
+    "hobbies": [
+        "drawing",
+        "learning",
+        "programming",
+        "playing guitar"
+    ],
+    "committed": 2,
+    "contact": {
+        "instagram": "@palindromei"
+    },
+    "Music": [
+        "hypermedia art",
+        "Red Bull",
+        "1990's alt-rock"
+    ],
+    "roomate": true
+}

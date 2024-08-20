@@ -1,0 +1,20 @@
+{
+    "name": "Kate",
+    "gender": 2,
+    "major": "Computational Mathematics, Computer Science (double major)",
+    "hobbies": [
+        "student pilot",
+        "fencing",
+        "rock climbing",
+        "golf",
+        "travel",
+        "reading"
+    ],
+    "committed": 1,
+    "from": "Phoenix, Maryland",
+    "Music": [],
+    "contact": {
+        "instagram": "@kseeman21"
+    },
+    "roomate": true
+}

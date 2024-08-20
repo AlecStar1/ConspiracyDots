@@ -1,0 +1,20 @@
+{
+    "name": "Anne",
+    "gender": 2,
+    "major": "Physicians Assistant Program (BS/MS)",
+    "hobbies": [
+        "hanging out with friends",
+        "listening to music",
+        "going on hikes",
+        "reading",
+        "dancing"
+    ],
+    "from": "Baltimore, MD",
+    "contact": {
+        "snapchat": "anne.margaret14",
+        "instagram": "@annemargaret.14"
+    },
+    "committed": 1,
+    "Music": [],
+    "roomate": true
+}

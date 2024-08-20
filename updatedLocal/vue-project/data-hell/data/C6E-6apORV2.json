@@ -1,0 +1,18 @@
+{
+    "name": "Davis",
+    "gender": 1,
+    "major": "Packaging Science",
+    "hobbies": [
+        "crochet",
+        "knit"
+    ],
+    "from": "Boston, MA",
+    "Music": [
+        "indie rock"
+    ],
+    "contact": {
+        "instagram": "@davis_square"
+    },
+    "committed": 1,
+    "roomate": true
+}

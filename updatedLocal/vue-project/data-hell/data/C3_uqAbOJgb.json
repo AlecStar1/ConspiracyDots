@@ -1,0 +1,19 @@
+{
+    "name": "Luke",
+    "gender": 1,
+    "major": "Computer Engineering",
+    "from": "Cobleskill, NY",
+    "hobbies": [
+        "hanging out with friends",
+        "playing volleyball",
+        "listening to music",
+        "sleeping"
+    ],
+    "committed": 2,
+    "Music": [],
+    "contact": {
+        "instagram": "@lukemyers04",
+        "snapchat": "luke.myers5"
+    },
+    "roomate": true
+}

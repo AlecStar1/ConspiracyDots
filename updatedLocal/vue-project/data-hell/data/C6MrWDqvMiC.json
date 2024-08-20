@@ -1,0 +1,20 @@
+{
+    "name": "Ben",
+    "gender": 1,
+    "major": "GDD",
+    "hobbies": [
+        "movies",
+        "board games",
+        "video games",
+        "jogging"
+    ],
+    "committed": 2,
+    "from": "New Jersey",
+    "Music": [
+        "2000s alt-rock"
+    ],
+    "contact": {
+        "instagram": "b.fox_20"
+    },
+    "roomate": true
+}

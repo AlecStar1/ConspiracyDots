@@ -1,0 +1,21 @@
+{
+    "name": "Lily",
+    "gender": 2,
+    "major": "Mechanical Engineering",
+    "from": "RIT",
+    "hobbies": [
+        "Snowboarding",
+        "Music",
+        "Cats",
+        "Exploring"
+    ],
+    "committed": 1,
+    "Music": [
+        "Unknown"
+    ],
+    "contact": {
+        "Instagram": "@lily_aire_",
+        "Snapchat": "lily_aire"
+    },
+    "roomate": true
+}

@@ -1,0 +1,19 @@
+{
+    "name": "MaryClare",
+    "gender": 2,
+    "major": "Biomedical Science",
+    "hobbies": [
+        ""
+    ],
+    "committed": 3,
+    "from": "RIT",
+    "Music": [
+        "Beyonc\u00c3\u00a9",
+        "Burna Boy"
+    ],
+    "contact": {
+        "instagram": "@maryclareee_",
+        "snapchat": "mama.aroh"
+    },
+    "roomate": true
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Jorja",
+    "gender": 2,
+    "major": "Photojournalism",
+    "hobbies": [
+        "Traveling",
+        "Music",
+        "Hanging out with friends",
+        "Ice cream",
+        "Friends (the show)",
+        "Sunsets"
+    ],
+    "committed": 1,
+    "from": "RIT (Committed)",
+    "contact": {
+        "instagram": "@jorjad10"
+    },
+    "Music": [],
+    "roomate": true
+}

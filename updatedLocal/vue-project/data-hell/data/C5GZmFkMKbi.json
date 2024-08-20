@@ -1,0 +1,20 @@
+{
+    "name": "Yash",
+    "gender": 1,
+    "major": [
+        "computer science",
+        "economics/finance"
+    ],
+    "from": "Dhaka, Bangladesh",
+    "hobbies": [
+        "playing video games (Rainbow 6, Apex Legends, Call of Duty)",
+        "playing piano",
+        "going to the gym"
+    ],
+    "committed": 2,
+    "contact": {
+        "instagram": "@x.ibit_"
+    },
+    "Music": [],
+    "roomate": false
+}

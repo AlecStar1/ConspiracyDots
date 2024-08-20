@@ -1,0 +1,19 @@
+{
+    "name": "Ian McMullen",
+    "gender": 1,
+    "committed": 2,
+    "hobbies": [
+        "Socializing"
+    ],
+    "major": [
+        "Biotechnology",
+        "Molecular Bioscience"
+    ],
+    "from": "Binghamton, New York",
+    "Music": [],
+    "contact": {
+        "Instagram": "@i_mcmullen14",
+        "Snapchat": "@i_mcmullen14"
+    },
+    "roomate": true
+}

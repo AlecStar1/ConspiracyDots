@@ -1,0 +1,19 @@
+{
+    "name": "Brandon",
+    "gender": 1,
+    "major": "Cybersecurity",
+    "hobbies": [
+        "skiing",
+        "tennis",
+        "reading",
+        "hanging out with friends"
+    ],
+    "committed": 3,
+    "from": "RIT",
+    "Music": [],
+    "contact": {
+        "instagram": "@brndadonwafelol",
+        "snapchat": "brndadonwafelol"
+    },
+    "roomate": false
+}

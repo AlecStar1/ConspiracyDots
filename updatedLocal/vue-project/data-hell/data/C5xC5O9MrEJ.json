@@ -1,0 +1,16 @@
+{
+    "name": "Jason",
+    "gender": 1,
+    "major": "",
+    "from": "Honolulu, Hawai'i",
+    "hobbies": [
+        ""
+    ],
+    "committed": 2,
+    "Music": [],
+    "contact": {
+        "instagram": "@sayyurrrr",
+        "snapchat": "sayyurrr"
+    },
+    "roomate": true
+}

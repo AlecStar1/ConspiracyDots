@@ -1,0 +1,18 @@
+{
+    "name": "Sharon Kimaiga",
+    "gender": 2,
+    "major": "chemical engineering",
+    "from": "Minneapolis, Minnesota",
+    "hobbies": [
+        "crocheting",
+        "hanging out with friends",
+        "trying new things"
+    ],
+    "committed": 3,
+    "Music": [],
+    "contact": {
+        "instagram": "@sharon.kimaiga",
+        "snapchat": "sharonkimaiga22"
+    },
+    "roomate": true
+}

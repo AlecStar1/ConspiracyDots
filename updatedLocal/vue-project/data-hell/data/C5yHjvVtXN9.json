@@ -1,0 +1,19 @@
+{
+    "name": "Lucas",
+    "gender": 1,
+    "major": "Software Engineering",
+    "hobbies": [
+        "tennis",
+        "basketball",
+        "working out",
+        "playing video games"
+    ],
+    "committed": 1,
+    "from": "Livonia, New York",
+    "contact": {
+        "instagram": "@lucas32ray",
+        "snapchat": "lukealemon"
+    },
+    "Music": [],
+    "roomate": true
+}

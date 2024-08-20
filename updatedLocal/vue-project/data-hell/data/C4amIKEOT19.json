@@ -1,0 +1,22 @@
+{
+    "name": "Ally",
+    "gender": 2,
+    "major": "Packaging Science",
+    "hobbies": [
+        "snowboarding",
+        "music",
+        "fortnite",
+        "traveling",
+        "gym",
+        "napping",
+        "hanging out with friends"
+    ],
+    "committed": 1,
+    "from": "RIT",
+    "Music": [],
+    "contact": {
+        "instagram": "@allylippa",
+        "snapchat": "allylippa"
+    },
+    "roomate": true
+}

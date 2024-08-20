@@ -1,0 +1,20 @@
+{
+    "name": "Chau",
+    "gender": 1,
+    "major": "",
+    "from": "Atlanta, GA",
+    "hobbies": [
+        "figure skating",
+        "building legos",
+        "painting",
+        "working out",
+        "going out with friends"
+    ],
+    "committed": 2,
+    "Music": [],
+    "contact": {
+        "instagram": "@chauwtrn",
+        "snapchat": "chowtrn"
+    },
+    "roomate": true
+}

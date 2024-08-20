@@ -1,0 +1,21 @@
+{
+    "name": "Ryley",
+    "gender": 1,
+    "major": "Interior Architecture",
+    "hobbies": [
+        "Lacrosse",
+        "Drawing",
+        "Planning events",
+        "Listening to music",
+        "Hanging out with friends",
+        "Going on random adventures"
+    ],
+    "committed": 2,
+    "from": "Central New Jersey",
+    "Music": [],
+    "contact": {
+        "instagram": "@ryleykaphan",
+        "snapchat": "rkaphan2"
+    },
+    "roomate": true
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Esha",
+    "gender": 2,
+    "major": "BS/MS Cybersecurity",
+    "hobbies": [
+        "karaoke nights",
+        "attending concerts",
+        "coffee dates with my girls",
+        "spending time at the beach/lakes",
+        "true crime",
+        "programming random things"
+    ],
+    "committed": 1,
+    "from": "Cheshire, CT",
+    "contact": {
+        "instagram": "@kindaeshy24"
+    },
+    "Music": [],
+    "roomate": true
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Yoon",
+    "gender": 1,
+    "major": "Biochemistry",
+    "from": "South Korea",
+    "hobbies": [
+        "listening to music",
+        "watching movies",
+        "outdoor activities"
+    ],
+    "committed": 2,
+    "Music": [],
+    "contact": {
+        "instagram": "@yoon_jjong100",
+        "snapchat": "jongyoon_baek"
+    },
+    "roomate": true
+}

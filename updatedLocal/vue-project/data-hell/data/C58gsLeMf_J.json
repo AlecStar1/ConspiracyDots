@@ -1,0 +1,20 @@
+{
+    "name": "Kailey Miller",
+    "gender": 2,
+    "major": "Biomedical Engineering",
+    "hobbies": [
+        "Hanging out with friends",
+        "Meeting new people",
+        "Listening to music"
+    ],
+    "committed": 1,
+    "from": "Manahawkin, New Jersey",
+    "Music": [
+        "Chappell Roan"
+    ],
+    "contact": {
+        "instagram": "@kailey.millerr",
+        "snapchat": "hextyeria"
+    },
+    "roomate": true
+}

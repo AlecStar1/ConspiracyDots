@@ -1,0 +1,19 @@
+{
+    "name": "Carlos Sanchez",
+    "gender": 1,
+    "major": "Photography",
+    "hobbies": [
+        "going out with friends",
+        "taking photos",
+        "fashion",
+        "art",
+        "Fencing"
+    ],
+    "committed": 1,
+    "from": "Maplewood NJ",
+    "Music": [],
+    "contact": {
+        "instagram": "@apemaen"
+    },
+    "roomate": true
+}

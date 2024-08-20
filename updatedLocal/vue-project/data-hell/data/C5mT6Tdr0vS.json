@@ -1,0 +1,24 @@
+{
+    "name": "Zac",
+    "gender": 1,
+    "major": "Biomedical Engineering",
+    "hobbies": [
+        "soccer",
+        "indoor/outdoor track",
+        "running",
+        "hiking",
+        "biking",
+        "kayaking",
+        "working out",
+        "hanging out with friends",
+        "playing video games"
+    ],
+    "committed": 1,
+    "from": "Perry, New York",
+    "Music": [],
+    "contact": {
+        "instagram": "@zacnar13",
+        "snapchat": "zacnar13"
+    },
+    "roomate": true
+}

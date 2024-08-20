@@ -1,0 +1,25 @@
+{
+    "name": "Chase",
+    "gender": 1,
+    "major": "Business Exploration",
+    "hobbies": [
+        "sports",
+        "musical theater and acting",
+        "being on the water",
+        "working out",
+        "being around family and friends",
+        "movies",
+        "singing",
+        "playing basketball and baseball",
+        "fishing",
+        "being outside"
+    ],
+    "committed": 1,
+    "from": "Boston, MA",
+    "Music": [],
+    "contact": {
+        "instagram": "@chase_bell21",
+        "snapchat": "@chase_bell19"
+    },
+    "roomate": true
+}

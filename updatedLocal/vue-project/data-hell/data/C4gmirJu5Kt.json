@@ -1,0 +1,20 @@
+{
+    "name": "Kelsi",
+    "gender": 2,
+    "major": "Biotechnology and Molecular Bioscience, Performing Arts Scholar",
+    "hobbies": [
+        "reading",
+        "music",
+        "cooking/baking",
+        "writing",
+        "yoga"
+    ],
+    "committed": 1,
+    "from": "Middletown, NY",
+    "contact": {
+        "instagram": "@kelsb7162",
+        "snapchat": "kelsb7162"
+    },
+    "Music": [],
+    "roomate": true
+}

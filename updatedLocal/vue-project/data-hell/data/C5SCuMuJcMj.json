@@ -1,0 +1,20 @@
+{
+    "name": "Megan Schmidt",
+    "gender": 2,
+    "major": "Biomedical Engineering",
+    "hobbies": [
+        "Hiking",
+        "Swimming",
+        "Traveling",
+        "Foodie",
+        "Cat lover",
+        "Gymnastics"
+    ],
+    "committed": 1,
+    "from": "Burlington, VT",
+    "Music": [],
+    "contact": {
+        "instagram": "@megan40schmidt"
+    },
+    "roomate": true
+}

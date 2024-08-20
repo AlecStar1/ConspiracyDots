@@ -1,0 +1,16 @@
+{
+    "name": "Gabby",
+    "gender": 2,
+    "major": "",
+    "hobbies": [
+        "shopping",
+        "mcflurry enthusiast"
+    ],
+    "committed": 3,
+    "from": "Northern VA",
+    "Music": [],
+    "contact": {
+        "instagram": "@gxbby.w"
+    },
+    "roomate": true
+}

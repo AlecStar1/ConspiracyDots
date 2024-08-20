@@ -1,0 +1,16 @@
+{
+    "name": "Akina Watson",
+    "gender": 1,
+    "major": "Diagnostic Medical Sonography",
+    "from": "Maryland",
+    "hobbies": [
+        "listening to music",
+        "diving into horror books"
+    ],
+    "committed": 3,
+    "Music": [],
+    "contact": {
+        "instagram": "@peacegurl_kiki"
+    },
+    "roomate": true
+}

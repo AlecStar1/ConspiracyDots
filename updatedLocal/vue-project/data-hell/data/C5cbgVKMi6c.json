@@ -1,0 +1,17 @@
+{
+    "name": "Maria Bilane",
+    "gender": 2,
+    "major": "Sociology & Anthropology",
+    "hobbies": [
+        "spending time with friends and families",
+        "extracurricular activities"
+    ],
+    "committed": 1,
+    "from": "Rochester, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@mmvi_mar",
+        "snapchat": "mmvi_mar"
+    },
+    "roomate": true
+}

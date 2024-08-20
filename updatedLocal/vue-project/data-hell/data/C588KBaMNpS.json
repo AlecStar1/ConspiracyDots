@@ -1,0 +1,26 @@
+{
+    "name": "Clara",
+    "gender": 2,
+    "major": "Biomedical Science BS/MS",
+    "from": "Rochester, NY",
+    "hobbies": [
+        "snowboarding",
+        "hiking",
+        "working out",
+        "concerts",
+        "cheese",
+        "clay"
+    ],
+    "committed": 1,
+    "Music": [
+        "Noah Kahan",
+        "TV Girl",
+        "Chappell Roan",
+        "The Cure"
+    ],
+    "contact": {
+        "instagram": "@czg",
+        "snapchat": "koi_875"
+    },
+    "roomate": true
+}

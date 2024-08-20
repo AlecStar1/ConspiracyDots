@@ -1,0 +1,22 @@
+{
+    "name": "Cassidy",
+    "gender": 1,
+    "major": "Cybersecurity",
+    "hobbies": [
+        "spontaneous activities",
+        "building things",
+        "cooking",
+        "trying new things"
+    ],
+    "committed": 3,
+    "from": "White Plains, NY",
+    "Music": [
+        "hip hop",
+        "indie rock"
+    ],
+    "contact": {
+        "instagram": "@cassidz_k",
+        "snapchat": "cassidz_k"
+    },
+    "roomate": true
+}

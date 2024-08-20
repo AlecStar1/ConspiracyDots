@@ -1,0 +1,20 @@
+{
+    "name": "Allie",
+    "gender": 2,
+    "major": "Medical Illustration",
+    "hobbies": [
+        "concerts",
+        "Book of Mormon",
+        "anime",
+        "museums",
+        "hanging out with friends and family"
+    ],
+    "committed": 1,
+    "from": "Northern Virginia, just outside D.C.",
+    "Music": [],
+    "contact": {
+        "instagram": "@a1lie_johnson",
+        "snapchat": "a1lie_johnson"
+    },
+    "roomate": true
+}

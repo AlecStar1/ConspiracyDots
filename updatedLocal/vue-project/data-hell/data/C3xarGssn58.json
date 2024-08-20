@@ -1,0 +1,23 @@
+{
+    "name": "Gigi",
+    "gender": 2,
+    "major": "Chemistry",
+    "hobbies": [
+        "Hockey",
+        "Theater",
+        "Music"
+    ],
+    "committed": 1,
+    "from": "Kazakhstan, Livonia NY",
+    "Music": [
+        "RIT Tigers",
+        "ROC Amerks",
+        "Tenor Saxophone",
+        "Flute"
+    ],
+    "contact": {
+        "instagram": "@gigi_matasovsky",
+        "snapchat": "g_matasovsky"
+    },
+    "roomate": true
+}

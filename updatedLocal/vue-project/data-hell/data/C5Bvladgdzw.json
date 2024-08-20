@@ -1,0 +1,16 @@
+{
+    "name": "Micah",
+    "gender": 1,
+    "major": "Engineering Technology Exploration Program",
+    "from": "New Jersey",
+    "hobbies": [
+        "lifting"
+    ],
+    "committed": 3,
+    "Music": [],
+    "contact": {
+        "instagram": "@micahgotbanned",
+        "snapchat": "micahgotbanned"
+    },
+    "roomate": true
+}

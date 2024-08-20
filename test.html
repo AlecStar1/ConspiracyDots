@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        #diagram {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>pain</title>
+    </head>
+    <body>
+        <div id="diagram"></div>
+    </body>
+    <script src="D3.js"></script>
+    <script>  
+        var points = [[0,0],[50,50],[50,200]];
+        var Gen = d3.line()
+            .x((p) => p[0])
+            .y((p) => p[1])
+            .curve(d3.curveBasis);
+        const svg = d3.select('#diagram')
+            .append('svg')
+            .attr('width', '100%')
+            .attr('height', '100%');
+        loine = svg.append('path')
+            .attr("d", Gen(points))
+            .attr("stroke", "black")
+            .attr("fill", "none");
+    </script>
+</html>

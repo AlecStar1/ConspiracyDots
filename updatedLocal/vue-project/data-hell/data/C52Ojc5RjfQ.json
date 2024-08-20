@@ -1,0 +1,19 @@
+{
+    "name": "Kaito Martinez",
+    "gender": 1,
+    "major": "Nutritional Sciences",
+    "from": "New York City",
+    "hobbies": [
+        "skateboarding",
+        "snowboarding",
+        "cooking",
+        "hiking",
+        "garden"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@kaitomartineza"
+    },
+    "Music": [],
+    "roomate": true
+}

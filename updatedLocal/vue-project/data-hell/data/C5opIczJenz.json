@@ -1,0 +1,20 @@
+{
+    "name": "Demitri",
+    "from": "",
+    "gender": 1,
+    "committed": 1,
+    "hobbies": [
+        "skateboarding",
+        "snowboarding",
+        "learning German"
+    ],
+    "major": "Software Engineering",
+    "Music": [],
+    "contact": {
+        "IgnoreMe": {
+            "Instagram": "@heyitsdemitri",
+            "Snapchat": "heyitsdemitri"
+        }
+    },
+    "roomate": true
+}

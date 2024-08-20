@@ -1,0 +1,20 @@
+{
+    "name": "Keyla",
+    "gender": 2,
+    "major": "Mechanical/Bioengineering",
+    "hobbies": [
+        "drawing",
+        "music"
+    ],
+    "committed": 1,
+    "from": "West Orange, NJ",
+    "Music": [
+        "M\u00c3\u00a5neskin",
+        "IDKHOW",
+        "Ricky Montgomery"
+    ],
+    "contact": {
+        "instagram": "@k.key_5"
+    },
+    "roomate": true
+}

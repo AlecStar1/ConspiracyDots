@@ -1,0 +1,20 @@
+{
+    "name": "Arnav",
+    "gender": 1,
+    "major": "Computer Engineering",
+    "hobbies": [
+        "hanging out with friends",
+        "going out",
+        "talking to new people",
+        "playing lacrosse",
+        "long walks on the beach"
+    ],
+    "contact": {
+        "instagram": "@arnav__andhare",
+        "snapchat": "arnavyboi"
+    },
+    "from": "Mechanicsburg, PA",
+    "Music": [],
+    "committed": 2,
+    "roomate": true
+}

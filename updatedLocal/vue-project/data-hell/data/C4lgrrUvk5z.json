@@ -1,0 +1,20 @@
+{
+    "name": "Thomas",
+    "gender": 1,
+    "major": "Engineering Technology",
+    "hobbies": [
+        "swimming",
+        "working out",
+        "music",
+        "video games",
+        "hanging out with friends"
+    ],
+    "committed": 1,
+    "from": "Sudbury, MA",
+    "contact": {
+        "instagram": "@t_eppich",
+        "snapchat": "thomaseppich21"
+    },
+    "Music": [],
+    "roomate": true
+}

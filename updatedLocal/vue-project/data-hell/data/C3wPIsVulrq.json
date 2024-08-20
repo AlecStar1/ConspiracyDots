@@ -1,0 +1,17 @@
+{
+    "name": "Elinor O'Connor",
+    "gender": 2,
+    "major": "",
+    "from": "",
+    "hobbies": [
+        "playing games",
+        "cooking",
+        "sleeping"
+    ],
+    "committed": 3,
+    "Music": [],
+    "contact": {
+        "instagram": "@qmy.ellie"
+    },
+    "roomate": true
+}

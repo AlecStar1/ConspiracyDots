@@ -1,0 +1,22 @@
+{
+    "name": "Caroleen",
+    "gender": 2,
+    "major": [
+        "biology",
+        "biochemistry"
+    ],
+    "hobbies": [
+        "hanging out with friends",
+        "shopping",
+        "listening to music",
+        "chatting"
+    ],
+    "committed": 2,
+    "from": "Long Island, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@caroleen.deoliveira",
+        "snapchat": "caroleen.d"
+    },
+    "roomate": true
+}

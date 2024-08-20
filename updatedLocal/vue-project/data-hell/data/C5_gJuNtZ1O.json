@@ -1,0 +1,19 @@
+{
+    "name": "Sophia",
+    "gender": 2,
+    "committed": 1,
+    "hobbies": [
+        "Drawing",
+        "Meeting new people",
+        "Cutting hair",
+        "Exercise"
+    ],
+    "major": "Industrial Design",
+    "from": "San Jose, CA",
+    "Music": [],
+    "contact": {
+        "Instagram": "@sophia.l.tan",
+        "Snapchat": "sop55t"
+    },
+    "roomate": true
+}

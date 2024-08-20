@@ -1,0 +1,28 @@
+{
+    "name": "Oliwia",
+    "gender": 2,
+    "major": "Museum Studies",
+    "hobbies": [
+        "music",
+        "art",
+        "acting",
+        "filmmaking",
+        "baking",
+        "roblox",
+        "nature"
+    ],
+    "committed": 1,
+    "from": "Long Island, NY",
+    "Music": [
+        "Lana Del Rey",
+        "beabadoobee",
+        "deftones",
+        "The Beatles",
+        "The Smiths",
+        "Clairo"
+    ],
+    "contact": {
+        "instagram": "@oliwia.mariaxo"
+    },
+    "roomate": true
+}

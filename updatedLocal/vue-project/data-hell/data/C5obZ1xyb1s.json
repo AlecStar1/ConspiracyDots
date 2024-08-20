@@ -1,0 +1,19 @@
+{
+    "name": "Jaiden Mitchell",
+    "gender": 1,
+    "major": "BS/MS Computer Science",
+    "from": "Scranton, PA",
+    "hobbies": [
+        "hanging out with friends",
+        "joy rides",
+        "listening to music",
+        "trying new things"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "@bruh.its.me.jaiden",
+        "snapchat": "dantegirl01"
+    },
+    "roomate": true
+}

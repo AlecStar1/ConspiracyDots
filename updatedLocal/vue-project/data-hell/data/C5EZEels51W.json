@@ -1,0 +1,24 @@
+{
+    "name": "Aila",
+    "gender": 2,
+    "major": "Photography",
+    "hobbies": [
+        "Animal Crossing",
+        "Cats",
+        "Antique stores",
+        "Going out with friends",
+        "Ghibli movies",
+        "Sweaters",
+        "Music"
+    ],
+    "committed": 3,
+    "from": "Atlanta",
+    "Music": [
+        "Adrienne Lenker",
+        "The Sundays"
+    ],
+    "contact": {
+        "instagram": "@fairyyonfilm"
+    },
+    "roomate": true
+}

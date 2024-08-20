@@ -1,0 +1,24 @@
+{
+    "name": "Mahina",
+    "gender": 2,
+    "major": "physics",
+    "hobbies": [
+        "music",
+        "musical theater",
+        "hanging out with friends",
+        "baking",
+        "random art projects"
+    ],
+    "committed": 3,
+    "from": "Naples, NY",
+    "Music": [
+        "Royal and the Serpent",
+        "Amy Winehouse",
+        "Matt Mason",
+        "Hozier"
+    ],
+    "contact": {
+        "instagram": "@mahinawilliams"
+    },
+    "roomate": true
+}

@@ -1,0 +1,23 @@
+{
+    "name": "August/Auggie/etc",
+    "gender": 1,
+    "major": "Physics",
+    "hobbies": [
+        "movies",
+        "music",
+        "concerts",
+        "doodling",
+        "anime",
+        "collecting"
+    ],
+    "committed": 3,
+    "from": "Long Island, NY",
+    "Music": [
+        "rock",
+        "folk"
+    ],
+    "contact": {
+        "instagram": "@itscrabtime"
+    },
+    "roomate": true
+}

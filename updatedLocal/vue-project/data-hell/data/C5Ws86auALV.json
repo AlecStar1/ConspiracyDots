@@ -1,0 +1,25 @@
+{
+    "name": "Giovanna",
+    "gender": 2,
+    "major": "Game design and development",
+    "hobbies": [
+        "baking",
+        "fashion",
+        "drawing",
+        "spider-man",
+        "going to caf\u00c3\u00a9s",
+        "music"
+    ],
+    "committed": 3,
+    "from": "LA",
+    "Music": [
+        "Kali Uchis",
+        "DPR Ian",
+        "Doechii",
+        "Arctic Monkeys"
+    ],
+    "contact": {
+        "instagram": "@giovanna._.nelz"
+    },
+    "roomate": true
+}

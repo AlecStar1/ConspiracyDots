@@ -1,0 +1,23 @@
+{
+    "name": "Bret Kiefer",
+    "gender": 1,
+    "major": [
+        "Global Business",
+        "Management Information Systems"
+    ],
+    "from": "Morris County, New Jersey",
+    "hobbies": [
+        "Camping",
+        "Hiking",
+        "The Gym",
+        "Gaming",
+        "Tennis"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@bret_kiefer",
+        "snapchat": "bretkiefer"
+    },
+    "Music": [],
+    "roomate": true
+}

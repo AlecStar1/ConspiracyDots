@@ -1,0 +1,20 @@
+{
+    "name": "Ashley",
+    "gender": 2,
+    "major": "Physicans Assistant Program",
+    "hobbies": [
+        "hanging out with friends",
+        "shopping",
+        "going out",
+        "running",
+        "staying active"
+    ],
+    "committed": 1,
+    "from": "Danbury, CT",
+    "Music": [],
+    "contact": {
+        "instagram": "_@ashley.c22",
+        "snapchat": "acarvalheiro9"
+    },
+    "roomate": true
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Chris",
+    "gender": 1,
+    "major": "Chemical Engineering in the BS/MS Material Science program",
+    "hobbies": [
+        "Tennis",
+        "Science Olympiad"
+    ],
+    "committed": 2,
+    "from": "Rensselaer, NY",
+    "Music": [
+        "Hozier",
+        "Noah Kahan",
+        "The Crane Wives",
+        "Austin and the Powers",
+        "Good Kid"
+    ],
+    "contact": {
+        "instagram": "@maybe_chrizutt",
+        "snapchat": "@maybe_chrizutt"
+    },
+    "roomate": true
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Luke",
+    "gender": 1,
+    "major": "Chemical Engineering",
+    "hobbies": [
+        "swimming",
+        "skiing",
+        "hanging out with friends",
+        "going out",
+        "staying in",
+        "trying new things"
+    ],
+    "from": "Pittsburgh, Pennsylvania",
+    "Music": [],
+    "contact": {
+        "instagram": "@lukemyers17",
+        "snapchat": "lukemyers17"
+    },
+    "committed": 2,
+    "roomate": true
+}

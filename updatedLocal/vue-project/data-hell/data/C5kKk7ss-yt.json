@@ -1,0 +1,23 @@
+{
+    "name": "Ava",
+    "gender": 2,
+    "major": "New Media Design",
+    "from": "Toledo, Ohio",
+    "hobbies": [
+        "going to concerts",
+        "exploring new cities",
+        "finding the best local coffee shops",
+        "going to hockey games",
+        "playing soccer"
+    ],
+    "committed": 3,
+    "contact": {
+        "instagram": "@avagargac_"
+    },
+    "Music": [
+        "The Rolling Stones",
+        "The Pixies",
+        "Cage the Elephant"
+    ],
+    "roomate": true
+}

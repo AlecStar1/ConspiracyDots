@@ -1,0 +1,19 @@
+{
+    "name": "Phoebe",
+    "gender": 2,
+    "major": "Industrial Design",
+    "from": "Los Angeles, California",
+    "hobbies": [
+        "Hanging out with friends",
+        "Trying new foods",
+        "Listening to music",
+        "Going to the beach"
+    ],
+    "committed": 3,
+    "contact": {
+        "instagram": "@phoebekwon",
+        "snapchat": "phoebek11"
+    },
+    "Music": [],
+    "roomate": true
+}

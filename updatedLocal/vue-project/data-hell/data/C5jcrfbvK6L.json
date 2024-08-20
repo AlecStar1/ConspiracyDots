@@ -1,0 +1,17 @@
+{
+    "name": "Zach",
+    "gender": 1,
+    "major": "American Sign Language Interpreting",
+    "from": "Scranton, PA",
+    "hobbies": [
+        "hanging out w friends",
+        "going to the beach"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "@zachthurber",
+        "snapchat": "zachthurber"
+    },
+    "roomate": true
+}

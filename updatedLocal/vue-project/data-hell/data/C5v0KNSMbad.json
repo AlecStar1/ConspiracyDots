@@ -1,0 +1,22 @@
+{
+    "name": "Emily Scheirer",
+    "gender": 2,
+    "major": "Packaging Science",
+    "hobbies": [
+        "Dancing",
+        "Reading",
+        "Music",
+        "Watching Movies",
+        "Going Out with Friends"
+    ],
+    "committed": 3,
+    "from": "Rochester, NY",
+    "Music": [
+        "Taylor Swift"
+    ],
+    "contact": {
+        "instagram": "@emily_scheirer",
+        "snapchat": "erscheirer"
+    },
+    "roomate": true
+}

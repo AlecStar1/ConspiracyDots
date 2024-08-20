@@ -1,0 +1,19 @@
+{
+    "name": "Amrit Ahlawat",
+    "gender": 1,
+    "major": "Cyber Security",
+    "from": "RIT",
+    "hobbies": [
+        "soccer",
+        "spending time with dogs",
+        "hanging out with friends",
+        "listening to music"
+    ],
+    "committed": 1,
+    "contact": {
+        "type": "instagram",
+        "handle": "@amritahlawat07"
+    },
+    "Music": [],
+    "roomate": false
+}

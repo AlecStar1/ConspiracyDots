@@ -1,0 +1,23 @@
+{
+    "name": "Daisy",
+    "gender": 2,
+    "major": "Advertising Photography",
+    "hobbies": [
+        "spending time with my friends",
+        "art",
+        "reading",
+        "listening to music"
+    ],
+    "from": "Dallas, Tx",
+    "contact": {
+        "instagram": "@d3adcorpse_"
+    },
+    "committed": 1,
+    "Music": [
+        "Billie Eilish",
+        "Pierce the Veil",
+        "Caf\u00c3\u00a9 Tacvba",
+        "Mon Laferte"
+    ],
+    "roomate": true
+}

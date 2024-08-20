@@ -1,0 +1,18 @@
+{
+    "name": "Aaron Mishic",
+    "gender": 1,
+    "major": "Packaging Science",
+    "from": "Kane, PA",
+    "hobbies": [
+        "Soccer",
+        "Hanging out with friends",
+        "Stained Glass Art"
+    ],
+    "committed": 2,
+    "Music": [],
+    "contact": {
+        "instagram": "@aaronmishic",
+        "snapchat": "asm_90845"
+    },
+    "roomate": true
+}

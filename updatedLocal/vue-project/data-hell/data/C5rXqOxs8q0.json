@@ -1,0 +1,21 @@
+{
+    "name": "Justin",
+    "gender": 1,
+    "major": "Computing & Design (STEM field)",
+    "hobbies": [
+        "music",
+        "fashion",
+        "concerts",
+        "snowboarding",
+        "running track",
+        "traveling",
+        "hiking"
+    ],
+    "committed": 2,
+    "from": "Bergen County, New Jersey",
+    "Music": [],
+    "contact": {
+        "instagram": "@justin_parkk"
+    },
+    "roomate": true
+}

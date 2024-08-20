@@ -1,0 +1,23 @@
+{
+    "name": "Giovanna",
+    "gender": 2,
+    "major": [
+        "Communications",
+        "Advertising",
+        "Public Relations"
+    ],
+    "hobbies": [
+        "shopping",
+        "hanging out with friends",
+        "working out",
+        "going out at nights"
+    ],
+    "committed": 3,
+    "from": "Syracuse, New York",
+    "Music": [],
+    "contact": {
+        "instagram": "@giovanna.deuel",
+        "snapchat": "@gigi_deuel"
+    },
+    "roomate": true
+}

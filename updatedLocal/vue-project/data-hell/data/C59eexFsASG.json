@@ -1,0 +1,21 @@
+{
+    "name": "James",
+    "gender": 1,
+    "major": "Graphic Design",
+    "hobbies": [
+        "Skateboarding",
+        "Drawing",
+        "Photography"
+    ],
+    "from": "Bluemont, Virginia",
+    "Music": [
+        "Indie Rock",
+        "R&B"
+    ],
+    "contact": {
+        "Instagram": "@avidbreadman",
+        "Snapchat": "jamcoop05"
+    },
+    "committed": 2,
+    "roomate": true
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Milena",
+    "gender": 2,
+    "major": "Engineering Exploration Program",
+    "hobbies": [
+        "hanging out with friends",
+        "concerts",
+        "clubs",
+        "shopping",
+        "gym",
+        "dinner"
+    ],
+    "committed": 2,
+    "from": "Orlando, FL (originally from Ecuador)",
+    "Music": [
+        "Spanish music"
+    ],
+    "contact": {
+        "instagram": "@milenabcez"
+    },
+    "roomate": true
+}

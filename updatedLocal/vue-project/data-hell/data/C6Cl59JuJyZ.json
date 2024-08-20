@@ -1,0 +1,21 @@
+{
+    "name": "Quinn",
+    "gender": 1,
+    "major": "Computer Science",
+    "hobbies": [
+        "Hockey",
+        "Golf",
+        "Skiing",
+        "Mountain Biking",
+        "Cars",
+        "Working Out"
+    ],
+    "committed": 1,
+    "from": "Mechanicsburg, PA",
+    "Music": [],
+    "contact": {
+        "instagram": "@quinn.y29",
+        "snapchat": "quinn.yates"
+    },
+    "roomate": true
+}

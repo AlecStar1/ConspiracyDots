@@ -1,0 +1,23 @@
+{
+    "name": "Isaiah Zay",
+    "gender": 1,
+    "major": "CE Technology",
+    "from": "Silver Spring, MD",
+    "hobbies": [
+        "cooking",
+        "baking",
+        "playing valorant",
+        "playing roblox",
+        "collecting CDs",
+        "thrifting",
+        "watching anime",
+        "reading manhwa",
+        "lifting"
+    ],
+    "committed": 3,
+    "Music": [],
+    "contact": {
+        "instagram": "@overmanisaiah"
+    },
+    "roomate": true
+}

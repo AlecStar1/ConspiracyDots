@@ -1,0 +1,23 @@
+{
+    "name": "Rachel",
+    "gender": 2,
+    "major": "mechanical engineering",
+    "hobbies": [
+        "track",
+        "basketball",
+        "sushi",
+        "movies"
+    ],
+    "committed": 1,
+    "from": "Grand Island, NY",
+    "Music": [
+        "SZA",
+        "Khalid",
+        "Noah Kahan"
+    ],
+    "contact": {
+        "instagram": "@racheljoseph06",
+        "snapchat": "racheljoseph006"
+    },
+    "roomate": true
+}

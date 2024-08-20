@@ -1,0 +1,22 @@
+{
+    "name": "Trinity",
+    "gender": 2,
+    "major": "American Sign Language - English Interpreting",
+    "hobbies": [
+        "Art",
+        "Theater",
+        "D&D",
+        "LOTR"
+    ],
+    "committed": 3,
+    "from": "Somers, Connecticut",
+    "Music": [
+        "Hozier",
+        "The Crane Wives",
+        "The Oh Hellos"
+    ],
+    "contact": {
+        "instagram": "@the_third_artist"
+    },
+    "roomate": true
+}

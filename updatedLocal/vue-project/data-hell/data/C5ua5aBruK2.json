@@ -1,0 +1,19 @@
+{
+    "name": "Alexandra Yuhasz",
+    "gender": 2,
+    "major": "biomedical engineering",
+    "hobbies": [
+        "swimming",
+        "reading",
+        "staying active",
+        "hanging out with friends"
+    ],
+    "from": "Cleveland, Ohio",
+    "Music": [],
+    "contact": {
+        "instagram": "@alexandrayuhasz",
+        "snapchat": "alexandrayuhasz"
+    },
+    "committed": 1,
+    "roomate": true
+}

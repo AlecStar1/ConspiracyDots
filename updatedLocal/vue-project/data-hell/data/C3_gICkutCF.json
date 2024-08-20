@@ -1,0 +1,24 @@
+{
+    "name": "Shiro",
+    "gender": 1,
+    "major": "Game Arts",
+    "hobbies": [
+        "Drawing",
+        "Crotchetting",
+        "Baking",
+        "Watching Anime",
+        "Playing Video Games"
+    ],
+    "committed": 2,
+    "contact": {
+        "instagram": "@shirowouwu",
+        "snapchat": "goodnightangell"
+    },
+    "from": "Camden, New Jersey",
+    "Music": [
+        "Indie",
+        "Rock",
+        "KPop"
+    ],
+    "roomate": true
+}

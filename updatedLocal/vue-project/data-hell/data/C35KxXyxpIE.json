@@ -1,0 +1,19 @@
+{
+    "name": "Jake Edwards",
+    "gender": 1,
+    "major": "Robotics and Manufacturing Engineering",
+    "hobbies": [
+        "swimming",
+        "golfing",
+        "playing games",
+        "watching sports"
+    ],
+    "committed": 2,
+    "from": "",
+    "Music": [],
+    "contact": {
+        "instagram": "jacb.edwards",
+        "snapchat": "jsedwards30"
+    },
+    "roomate": true
+}

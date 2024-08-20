@@ -1,0 +1,19 @@
+{
+    "name": "Terrance",
+    "gender": 1,
+    "major": null,
+    "hobbies": [
+        "spikeball",
+        "cross country",
+        "track",
+        "formula one"
+    ],
+    "committed": 2,
+    "from": "Long Island, New York",
+    "Music": [],
+    "contact": {
+        "instagram": "@terrancedegnan",
+        "snapchat": "tdegnan4"
+    },
+    "roomate": true
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Allegra",
+    "gender": 2,
+    "major": "Physics",
+    "hobbies": [
+        "reading",
+        "listening to music",
+        "having movie nights",
+        "color guard"
+    ],
+    "committed": 2,
+    "from": "North Andover MA",
+    "Music": [],
+    "contact": {
+        "instagram": "@allegra._.w"
+    },
+    "roomate": true
+}

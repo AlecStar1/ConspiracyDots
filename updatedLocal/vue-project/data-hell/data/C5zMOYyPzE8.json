@@ -1,0 +1,22 @@
+{
+    "name": "Jackson Green",
+    "gender": 1,
+    "major": "Mechanical Engineering Technology",
+    "from": "Lake Charles, Louisiana",
+    "hobbies": [
+        "rowing",
+        "musician",
+        "running",
+        "playing other sports recreationally",
+        "video games",
+        "wakeboarding",
+        "skiing",
+        "hanging out with friends"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "@jackiegreen06"
+    },
+    "roomate": true
+}

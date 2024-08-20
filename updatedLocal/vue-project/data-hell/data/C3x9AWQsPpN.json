@@ -1,0 +1,20 @@
+{
+    "name": "Anthony Rosati Jr",
+    "gender": 1,
+    "major": "Computer Science",
+    "hobbies": [
+        "Building computers",
+        "Music"
+    ],
+    "committed": 3,
+    "from": "Pittsburgh, PA",
+    "Music": [
+        "Daft Punk",
+        "Billy Joel",
+        "Lo-fi rap"
+    ],
+    "contact": {
+        "instagram": "@ajrosatijr"
+    },
+    "roomate": false
+}

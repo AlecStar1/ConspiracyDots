@@ -1,0 +1,23 @@
+{
+    "name": "Nolan",
+    "gender": 1,
+    "major": "Accelerated BS/MS in Software Engineering and Computer Science",
+    "hobbies": [
+        "Hiking",
+        "Freestyle Skiing",
+        "Hanging out with friends",
+        "Collecting physical media"
+    ],
+    "committed": 2,
+    "from": "Falmouth, ME",
+    "contact": {
+        "Instagram": "@nyork.24"
+    },
+    "Music": [
+        "Jane Remover",
+        "Quasimoto",
+        "Cocteau Twins",
+        "Smashing Pumpkins"
+    ],
+    "roomate": true
+}

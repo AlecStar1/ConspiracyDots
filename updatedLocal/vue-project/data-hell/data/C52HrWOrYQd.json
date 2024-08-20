@@ -1,0 +1,27 @@
+{
+    "name": "Sadie",
+    "gender": 2,
+    "major": {
+        "program": "BS/MS",
+        "field": "Mechanical Engineering (Aerospace)"
+    },
+    "hobbies": [
+        "travel",
+        "cooking",
+        "hiking",
+        "going to the beach",
+        "swimming",
+        "golf"
+    ],
+    "committed": 1,
+    "from": "Norwich, CT",
+    "contact": {
+        "instagram": "@sadie_holley11",
+        "snapchat": "sholley687"
+    },
+    "Music": [
+        "Mac DeMarco",
+        "The Backseat Lovers"
+    ],
+    "roomate": true
+}

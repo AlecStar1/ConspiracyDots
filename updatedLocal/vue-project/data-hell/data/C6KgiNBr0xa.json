@@ -1,0 +1,20 @@
+{
+    "name": "Cassidy Ryan",
+    "gender": 2,
+    "major": "Engineering Exploration",
+    "from": "Carmel, NY",
+    "hobbies": [
+        "playing tennis",
+        "reading",
+        "listening to music",
+        "cooking",
+        "spending time with friends",
+        "crocheting"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "@c.j.r_06"
+    },
+    "roomate": true
+}

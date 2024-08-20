@@ -1,0 +1,20 @@
+{
+    "name": "Oyku",
+    "gender": 2,
+    "major": "Graphic Design",
+    "hobbies": [
+        "hip-hop dance",
+        "piano",
+        "baking",
+        "tattoos"
+    ],
+    "committed": 2,
+    "from": "Ankara, Turkey",
+    "Music": [
+        "hip-hop"
+    ],
+    "contact": {
+        "instagram": "@0yku_guvenc_"
+    },
+    "roomate": true
+}
