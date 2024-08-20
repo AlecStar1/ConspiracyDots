@@ -1,0 +1,17 @@
+{
+    "name": "Danny",
+    "gender": 1,
+    "major": "Mechanical Engineering Technology",
+    "hobbies": [
+        "Star Wars",
+        "DnD"
+    ],
+    "committed": 1,
+    "from": "Toms River, NJ",
+    "contact": {
+        "instagram": "@dsquared10",
+        "snapchat": "d_drennan21"
+    },
+    "Music": [],
+    "roomate": true
+}

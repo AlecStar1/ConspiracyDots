@@ -1,0 +1,23 @@
+{
+    "name": "Angela",
+    "gender": 2,
+    "major": "Undecided (medical field)",
+    "hobbies": [
+        "sleep",
+        "food",
+        "movies",
+        "crime documentaries",
+        "hair",
+        "comics",
+        "anime",
+        "softball"
+    ],
+    "from": "",
+    "Music": [],
+    "contact": {
+        "instagram": "@angela_volleyball",
+        "snapchat": "imwith_yourma"
+    },
+    "committed": 3,
+    "roomate": true
+}

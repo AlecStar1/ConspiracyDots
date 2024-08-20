@@ -1,0 +1,22 @@
+{
+    "name": "Mack",
+    "gender": 1,
+    "major": "ASL Interpreting",
+    "from": "NJ",
+    "hobbies": [
+        "competitive cheerleading",
+        "camping",
+        "animals",
+        "music"
+    ],
+    "committed": 2,
+    "Music": [
+        "Minnesota Vikings",
+        "football"
+    ],
+    "contact": {
+        "Instagram": "@mh.kondreck143",
+        "Snapchat": "mack_14"
+    },
+    "roomate": true
+}

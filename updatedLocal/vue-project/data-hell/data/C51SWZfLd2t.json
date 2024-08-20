@@ -1,0 +1,21 @@
+{
+    "name": "Ray",
+    "gender": 3,
+    "major": "Computer Science",
+    "hobbies": [
+        "crochet",
+        "draw",
+        "hang out with friends",
+        "thrift",
+        "play video games",
+        "listen to music"
+    ],
+    "committed": 1,
+    "from": "Pittsburgh, PA",
+    "contact": {
+        "instagram": "@ray._who",
+        "snapchat": "kirrayyuh"
+    },
+    "Music": [],
+    "roomate": false
+}

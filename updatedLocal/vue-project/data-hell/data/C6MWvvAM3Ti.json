@@ -1,0 +1,20 @@
+{
+    "name": "Seth",
+    "gender": 1,
+    "major": "Engineering or Science related",
+    "hobbies": [
+        "Surfing",
+        "Exploring areas on Long Island",
+        "Thrifting",
+        "Lifting weights",
+        "Boxing"
+    ],
+    "from": "Sound Beach, Long Island",
+    "Music": [],
+    "contact": {
+        "Instagram": "@the_slaw06",
+        "Snapchat": "sethlaw09"
+    },
+    "committed": 2,
+    "roomate": true
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Hannah",
+    "gender": 2,
+    "major": "Photojournalism",
+    "hobbies": [
+        "Dancing",
+        "Photography",
+        "Going to concerts",
+        "Spending time with friends",
+        "Taking naps"
+    ],
+    "committed": 1,
+    "from": "Boston, MA",
+    "Music": [
+        "Taylor Swift",
+        "Noah Kahan",
+        "Boygenius",
+        "Hozier",
+        "Wallows"
+    ],
+    "contact": {
+        "instagram": "@hannahmmurphy_",
+        "snapchat": "hmurphy1806"
+    },
+    "roomate": true
+}

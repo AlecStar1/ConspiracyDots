@@ -1,0 +1,23 @@
+{
+    "name": "Aidan",
+    "gender": 1,
+    "major": "Computer Engineering",
+    "hobbies": [
+        "football",
+        "basketball",
+        "track",
+        "3D print",
+        "gaming",
+        "skiing",
+        "traveling",
+        "hiking",
+        "eating out"
+    ],
+    "from": "Voorheesville, New York",
+    "Music": [],
+    "contact": {
+        "instagram": "@aida.nhartmann1"
+    },
+    "committed": 1,
+    "roomate": true
+}

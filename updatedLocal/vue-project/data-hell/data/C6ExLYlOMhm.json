@@ -1,0 +1,19 @@
+{
+    "name": "Jake",
+    "gender": 1,
+    "major": "Cybersecurity",
+    "hobbies": [
+        "music",
+        "video games",
+        "computers"
+    ],
+    "committed": 1,
+    "from": "Loveland, Ohio",
+    "Music": [
+        "music performance"
+    ],
+    "contact": {
+        "instagram": "@jakesimonbrass"
+    },
+    "roomate": true
+}

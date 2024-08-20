@@ -1,0 +1,21 @@
+{
+    "name": "Rydley",
+    "gender": 1,
+    "major": "marketing",
+    "hobbies": [
+        "reading",
+        "music",
+        "napping"
+    ],
+    "from": "Long Island, NY",
+    "Music": [
+        "thrillers",
+        "rom-com"
+    ],
+    "contact": {
+        "instagram": "@rydl3y_sch_",
+        "snapchat": "rydleys88"
+    },
+    "committed": 1,
+    "roomate": true
+}

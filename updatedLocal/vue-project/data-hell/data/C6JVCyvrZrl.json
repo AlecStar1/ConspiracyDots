@@ -1,0 +1,21 @@
+{
+    "name": "Danika",
+    "gender": 2,
+    "major": "Chemistry",
+    "from": "Rochester, NY",
+    "hobbies": [
+        "hanging out with friends",
+        "watching movies/tv series",
+        "crocheting",
+        "listening to music",
+        "traveling",
+        "reading"
+    ],
+    "committed": 3,
+    "Music": [],
+    "contact": {
+        "instagram": "@danikamcampbell",
+        "snapchat": "danikac17"
+    },
+    "roomate": true
+}

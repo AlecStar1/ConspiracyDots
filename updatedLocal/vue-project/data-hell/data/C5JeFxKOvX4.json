@@ -1,0 +1,20 @@
+{
+    "name": "Jul",
+    "gender": 1,
+    "major": "Biotech and Molecular Biosci",
+    "from": "Rochester",
+    "hobbies": [
+        "running",
+        "playing instruments (bass, electric/acoustic guitar, violin)",
+        "doing random clubs"
+    ],
+    "committed": 2,
+    "Music": [
+        "indie rock",
+        "pop"
+    ],
+    "contact": {
+        "instagram": "@julsanders_"
+    },
+    "roomate": true
+}

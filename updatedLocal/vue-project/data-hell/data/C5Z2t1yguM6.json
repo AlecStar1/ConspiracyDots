@@ -1,0 +1,27 @@
+{
+    "name": "Chloe",
+    "gender": 2,
+    "major": [
+        "cybersecurity",
+        "political science"
+    ],
+    "hobbies": [
+        "movies/TV",
+        "theatre",
+        "music",
+        "strange and unusual"
+    ],
+    "committed": 3,
+    "from": null,
+    "Music": [
+        "Chappell Roan",
+        "Metric",
+        "goth",
+        "punk",
+        "80s rock"
+    ],
+    "contact": {
+        "instagram": "@cyberchloe_"
+    },
+    "roomate": true
+}

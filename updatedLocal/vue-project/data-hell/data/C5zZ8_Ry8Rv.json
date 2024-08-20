@@ -1,0 +1,20 @@
+{
+    "name": "Elisa Unangst",
+    "gender": 2,
+    "major": "Physician Assistant BS/MS",
+    "from": "Cleveland, Ohio",
+    "hobbies": [
+        "hanging out with friends",
+        "swimming",
+        "dancing",
+        "singing",
+        "exploring new places"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "@elisa.unangst",
+        "snapchat": "eunangst"
+    },
+    "roomate": true
+}

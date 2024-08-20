@@ -1,0 +1,17 @@
+{
+    "name": "Sarah",
+    "from": "",
+    "gender": 2,
+    "committed": 3,
+    "hobbies": [
+        "going out",
+        "meeting new friends"
+    ],
+    "major": "",
+    "contact": {
+        "Ignstagram": "_sarahgoldman",
+        "Snapchat": "sarahgoldmannn"
+    },
+    "Music": [],
+    "roomate": true
+}

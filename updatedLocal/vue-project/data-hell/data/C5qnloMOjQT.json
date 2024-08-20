@@ -1,0 +1,19 @@
+{
+    "name": "Rebecca",
+    "gender": 2,
+    "major": "Chemical Engineering",
+    "hobbies": [
+        "reading",
+        "filming",
+        "photography",
+        "watching movies",
+        "hanging out with friends"
+    ],
+    "committed": 1,
+    "from": "Georgia",
+    "Music": [],
+    "contact": {
+        "instagram": "@_iam.becca.aaa"
+    },
+    "roomate": true
+}

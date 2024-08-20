@@ -1,0 +1,20 @@
+{
+    "name": "Ari",
+    "gender": 1,
+    "major": "Diagnostic Medical Sonography",
+    "hobbies": [
+        "shopping",
+        "hanging out with friends",
+        "concerts",
+        "watching sunsets",
+        "fun car rides"
+    ],
+    "committed": 2,
+    "from": "Rochester, NY",
+    "contact": {
+        "instagram": "@ariana.eodice",
+        "snapchat": "ariana.eodice"
+    },
+    "Music": [],
+    "roomate": true
+}

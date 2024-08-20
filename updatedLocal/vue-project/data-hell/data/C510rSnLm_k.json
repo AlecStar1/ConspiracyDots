@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Domino",
+    "gender": 2,
+    "major": "Psychology BS",
+    "from": "RIT",
+    "hobbies": [
+        "animated shows",
+        "webcomics",
+        "yoga",
+        "music",
+        "roblox",
+        "painting"
+    ],
+    "committed": 1,
+    "Music": [
+        "Mitski",
+        "Lana Del Rey",
+        "Laufey",
+        "Solya!"
+    ],
+    "contact": {
+        "instagram": "@sunnylemonbuns"
+    },
+    "roomate": false
+}

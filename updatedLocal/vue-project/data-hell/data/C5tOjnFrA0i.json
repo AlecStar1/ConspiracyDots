@@ -1,0 +1,18 @@
+{
+    "name": "Emma",
+    "gender": 2,
+    "major": "Physician Assistant's Program",
+    "hobbies": [
+        "Lacrosse",
+        "Dance",
+        "Swim"
+    ],
+    "committed": 1,
+    "from": "RIT",
+    "contact": {
+        "instagram": "@emmaalbrecht05",
+        "snapchat": "eralbrecht23"
+    },
+    "Music": [],
+    "roomate": true
+}

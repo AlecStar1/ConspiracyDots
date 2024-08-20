@@ -1,0 +1,27 @@
+{
+    "name": "Jeankarlo",
+    "gender": 1,
+    "major": "",
+    "from": "Madison, NJ",
+    "hobbies": [
+        "Soccer",
+        "Volleyball",
+        "Tennis",
+        "Video Games",
+        "Working Out",
+        "Thrift Shopping"
+    ],
+    "committed": 2,
+    "contact": {
+        "Instagram": "_@_jfg.19",
+        "Snapchat": "jeankarlo_f19"
+    },
+    "Music": [
+        "Pop",
+        "K-Pop",
+        "Rap",
+        "R&B",
+        "Reggaeton"
+    ],
+    "roomate": true
+}

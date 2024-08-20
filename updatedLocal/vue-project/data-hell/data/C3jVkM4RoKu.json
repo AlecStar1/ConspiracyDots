@@ -1,0 +1,23 @@
+{
+    "name": "Kate-Lynn",
+    "gender": 2,
+    "major": "Illustration",
+    "from": "Syracuse",
+    "hobbies": [
+        "art",
+        "crochet"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@katel.et",
+        "snapchat": "katelxtran"
+    },
+    "Music": [
+        "NF",
+        "(G)-IDLE",
+        "M\u00c3\u00a5neskin",
+        "Mamamoo",
+        "Lana Del Rey"
+    ],
+    "roomate": true
+}

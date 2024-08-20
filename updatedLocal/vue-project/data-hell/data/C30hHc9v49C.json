@@ -1,0 +1,23 @@
+{
+    "name": "Gavin Komoda",
+    "gender": 1,
+    "major": "Industrial Design",
+    "hobbies": [
+        {
+            "name": "Drawing"
+        },
+        {
+            "name": "Painting"
+        }
+    ],
+    "from": "NJ",
+    "Music": [
+        "Metal"
+    ],
+    "contact": {
+        "instagram": "@gavin_komoda",
+        "snapchat": "gavin_ko"
+    },
+    "committed": 1,
+    "roomate": true
+}

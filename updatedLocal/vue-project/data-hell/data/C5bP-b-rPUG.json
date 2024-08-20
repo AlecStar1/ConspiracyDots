@@ -1,0 +1,21 @@
+{
+    "name": "Jalona",
+    "gender": 2,
+    "major": [
+        "Japanese Language and Culture",
+        "Game Design"
+    ],
+    "hobbies": [
+        "Horror (movies and games)",
+        "Crocheting",
+        "Traveling"
+    ],
+    "committed": 3,
+    "from": "Rochester, New York",
+    "contact": {
+        "instagram": "@samara_please01",
+        "snapchat": "samara_please01"
+    },
+    "Music": [],
+    "roomate": true
+}

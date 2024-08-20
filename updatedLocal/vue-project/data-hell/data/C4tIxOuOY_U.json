@@ -1,0 +1,21 @@
+{
+    "name": "Evan",
+    "gender": 1,
+    "major": "Film and Animation-Animation option",
+    "hobbies": [
+        "play video games",
+        "draw",
+        "act",
+        "sing",
+        "run",
+        "listen to music",
+        "origami"
+    ],
+    "committed": 1,
+    "from": "Paoli PA",
+    "Music": [],
+    "contact": {
+        "instagram": "@evankoup"
+    },
+    "roomate": true
+}

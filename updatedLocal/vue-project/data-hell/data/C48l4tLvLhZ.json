@@ -1,0 +1,19 @@
+{
+    "name": "Andrew",
+    "gender": 1,
+    "major": "engineering (engineering exploration)",
+    "hobbies": [
+        "skiing",
+        "ultimate frisbee",
+        "playing the trumpet",
+        "hanging out with friends"
+    ],
+    "committed": 2,
+    "from": "Pittsburgh PA",
+    "Music": [],
+    "contact": {
+        "instagram": "@andrew_wagner18",
+        "snapchat": "andrewwagner819"
+    },
+    "roomate": true
+}

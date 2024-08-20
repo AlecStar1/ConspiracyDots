@@ -1,0 +1,21 @@
+{
+    "name": "Emily",
+    "gender": 2,
+    "major": "Studio Art",
+    "from": "Rochester, NY",
+    "hobbies": [
+        "Musical theater",
+        "A cappella",
+        "Drawing",
+        "Painting",
+        "Journaling",
+        "Soccer"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "@that_kid_sweeney",
+        "snapchat": "emily.sweeneyyy"
+    },
+    "roomate": true
+}

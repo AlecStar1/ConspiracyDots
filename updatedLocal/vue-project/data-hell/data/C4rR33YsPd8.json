@@ -1,0 +1,20 @@
+{
+    "name": "Kiley",
+    "gender": 2,
+    "major": "Film & Animation - Animation Option",
+    "from": "",
+    "hobbies": [
+        "reading",
+        "listening to music",
+        "going to concerts",
+        "playing the guitar",
+        "theater"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "@kileyvandegeest",
+        "snapchat": "k_vandegeest"
+    },
+    "roomate": true
+}

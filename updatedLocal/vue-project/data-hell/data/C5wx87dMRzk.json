@@ -1,0 +1,19 @@
+{
+    "name": "Roman",
+    "gender": 1,
+    "major": "Mechanical Engineering",
+    "from": "Middletown, PA",
+    "hobbies": [
+        "bowling",
+        "watching/playing sports",
+        "working out",
+        "video games"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@roman.cipolla",
+        "snapchat": "roman.cipolla"
+    },
+    "Music": [],
+    "roomate": true
+}

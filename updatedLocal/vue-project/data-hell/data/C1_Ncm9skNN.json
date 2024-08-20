@@ -1,0 +1,21 @@
+{
+    "name": "Gabe",
+    "gender": 1,
+    "major": "Engineering Technology, Mechanical Engineering Technology",
+    "from": "Champaign Illinois",
+    "hobbies": [
+        "3D printing",
+        "building and coding robots",
+        "playing music"
+    ],
+    "committed": 2,
+    "Music": [
+        "guitar",
+        "clarinets"
+    ],
+    "contact": {
+        "instagram": "@gabe_cook10_20",
+        "snapchat": "gabecook60_99"
+    },
+    "roomate": true
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Allie",
+    "gender": 2,
+    "major": "",
+    "from": "",
+    "hobbies": [
+        "concerts",
+        "beach",
+        "tanning",
+        "cheer",
+        "golf",
+        "flag football"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "@allie_chaffee",
+        "snapchat": "achaffee51"
+    },
+    "roomate": true
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Noam",
+    "gender": 1,
+    "major": "Global Business Management with an NTID track",
+    "hobbies": [
+        "learning languages",
+        "acting",
+        "cooking",
+        "just learning stuff in general"
+    ],
+    "committed": 1,
+    "from": "Odenton, Maryland",
+    "contact": {
+        "instagram": "@noam0187"
+    },
+    "Music": [],
+    "roomate": true
+}

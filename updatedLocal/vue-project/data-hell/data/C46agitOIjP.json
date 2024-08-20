@@ -1,0 +1,23 @@
+{
+    "name": "Ryan",
+    "gender": 1,
+    "major": "Mechanical Engineering",
+    "hobbies": [
+        "dirtbikes",
+        "quads",
+        "hockey",
+        "skiing",
+        "mtb",
+        "traveling",
+        "ceramics",
+        "working out"
+    ],
+    "committed": 2,
+    "from": "Topsfield, Massachusetts",
+    "contact": {
+        "instagram": "@ryan.johnston.9",
+        "snapchat": "ryanjohnston_05"
+    },
+    "Music": [],
+    "roomate": true
+}

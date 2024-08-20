@@ -1,0 +1,19 @@
+{
+    "name": "Rayaan",
+    "gender": 1,
+    "major": "Physician Assistant",
+    "hobbies": [
+        "Soccer",
+        "Baseball",
+        "Hitting the gym",
+        "Hanging out with friends"
+    ],
+    "committed": 2,
+    "from": "Kendall Park, New Jersey",
+    "Music": [],
+    "contact": {
+        "instagram": "@rayaann_s",
+        "snapchat": "rayaan_s7"
+    },
+    "roomate": true
+}

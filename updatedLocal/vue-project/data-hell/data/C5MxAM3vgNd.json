@@ -1,0 +1,17 @@
+{
+    "name": "Jaden",
+    "gender": 1,
+    "major": "Electrical Engineering",
+    "hobbies": [
+        "Swimming",
+        "Baking",
+        "Musicals"
+    ],
+    "committed": 1,
+    "from": "Austin, Texas",
+    "contact": {
+        "instagram": "@jsteen94"
+    },
+    "Music": [],
+    "roomate": true
+}

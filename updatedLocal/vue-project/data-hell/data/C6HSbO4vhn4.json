@@ -1,0 +1,25 @@
+{
+    "name": "Bella",
+    "gender": 2,
+    "major": "Game Design and Development",
+    "from": "Alexandria, Virginia",
+    "hobbies": [
+        "listening to music",
+        "reading",
+        "writing",
+        "Star Wars",
+        "technical theater",
+        "playing video games"
+    ],
+    "committed": 1,
+    "Music": [
+        "Ricky Montgomery",
+        "Baebadoobee",
+        "Glass Animals"
+    ],
+    "contact": {
+        "Instagram": "@bella.believe.me",
+        "Snapchat": "bellam1204"
+    },
+    "roomate": true
+}

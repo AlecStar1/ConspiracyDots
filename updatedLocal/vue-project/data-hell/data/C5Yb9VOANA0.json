@@ -1,0 +1,22 @@
+{
+    "name": "Trey",
+    "gender": 1,
+    "major": "Mechanical Engineering",
+    "hobbies": [
+        "cars",
+        "skiing",
+        "sailing",
+        "hanging out with friends",
+        "playing video games",
+        "soccer",
+        "freestyle skiing"
+    ],
+    "committed": 2,
+    "from": "Cleveland, Ohio",
+    "Music": [],
+    "contact": {
+        "instagram": "@trey.banyard",
+        "snapchat": "trey.banyard"
+    },
+    "roomate": true
+}

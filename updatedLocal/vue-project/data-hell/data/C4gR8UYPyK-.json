@@ -1,0 +1,17 @@
+{
+    "name": "Liam",
+    "gender": 1,
+    "major": "Civil Engineering Technology",
+    "hobbies": [
+        "art",
+        "reading",
+        "video games"
+    ],
+    "committed": 2,
+    "from": "Bronx, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@ew_its1iam"
+    },
+    "roomate": true
+}

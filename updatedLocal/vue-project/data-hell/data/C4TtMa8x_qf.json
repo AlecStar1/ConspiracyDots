@@ -1,0 +1,18 @@
+{
+    "name": "Leo Pacione",
+    "gender": 1,
+    "major": "Graphic Design",
+    "hobbies": [
+        "Music",
+        "Volleyball",
+        "Clothes"
+    ],
+    "committed": 2,
+    "from": "Not mentioned",
+    "Music": [],
+    "contact": {
+        "instagram": "@leo pacione",
+        "snapchat": "leopacione"
+    },
+    "roomate": true
+}

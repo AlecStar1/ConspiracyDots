@@ -1,0 +1,19 @@
+{
+    "name": "Robert",
+    "gender": 1,
+    "major": "microelectronic engineering",
+    "hobbies": [
+        "varsity track",
+        "robotics",
+        "video games",
+        "coding"
+    ],
+    "committed": 2,
+    "from": "Milton, Vermont",
+    "contact": {
+        "instagram": "@robert1289002",
+        "snapchat": "rw99215"
+    },
+    "Music": [],
+    "roomate": false
+}

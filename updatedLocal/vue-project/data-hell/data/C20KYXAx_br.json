@@ -1,0 +1,18 @@
+{
+    "name": "James",
+    "gender": 1,
+    "major": "Fine Art Photography",
+    "hobbies": [
+        "graphic design",
+        "clothes",
+        "going to the gym",
+        "mac n cheese"
+    ],
+    "committed": 1,
+    "from": "Mukilteo, WA",
+    "Music": [],
+    "contact": {
+        "instagram": "@jmes.fschr"
+    },
+    "roomate": false
+}

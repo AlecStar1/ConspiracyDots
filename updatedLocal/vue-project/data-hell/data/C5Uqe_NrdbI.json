@@ -1,0 +1,18 @@
+{
+    "name": "Litza",
+    "gender": 2,
+    "major": "Physicians Assistant BS/MS",
+    "hobbies": [
+        "hanging out with friends",
+        "working out",
+        "going to sports games"
+    ],
+    "committed": 1,
+    "from": "Rochester, New York",
+    "Music": [],
+    "contact": {
+        "instagram": "@litzakacurovski",
+        "snapchat": "litza2005"
+    },
+    "roomate": true
+}

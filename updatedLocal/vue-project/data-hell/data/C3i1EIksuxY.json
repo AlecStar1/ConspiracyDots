@@ -1,0 +1,15 @@
+{
+    "name": "Luke Bishop",
+    "gender": 1,
+    "major": "Computer Science",
+    "from": "Pittsburgh, PA",
+    "hobbies": [
+        "Swimming"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "@luke.bishop239"
+    },
+    "roomate": true
+}

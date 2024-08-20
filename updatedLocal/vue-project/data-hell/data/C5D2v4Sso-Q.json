@@ -1,0 +1,19 @@
+{
+    "name": "Ryan",
+    "gender": 1,
+    "major": "Video Game Design",
+    "hobbies": [
+        "video games",
+        "drawing",
+        "running",
+        "music"
+    ],
+    "committed": 2,
+    "from": "Pittsburgh, PA",
+    "Music": [],
+    "contact": {
+        "instagram": "@ryanoreal",
+        "snapchat": "hustlerquotes34"
+    },
+    "roomate": true
+}

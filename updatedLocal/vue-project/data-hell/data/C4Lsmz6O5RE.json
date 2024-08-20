@@ -1,0 +1,19 @@
+{
+    "name": "Brenden",
+    "gender": 1,
+    "major": "Engineering Exploration",
+    "hobbies": [
+        "hanging out with friends",
+        "working out",
+        "playing/watching sports",
+        "going to concerts"
+    ],
+    "committed": 1,
+    "from": "Oakfield, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@brenden_wescott",
+        "snapchat": "brenden.wescott"
+    },
+    "roomate": true
+}

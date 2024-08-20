@@ -1,0 +1,20 @@
+{
+    "name": "Leo",
+    "gender": 1,
+    "major": "Mechanical Engineering technology",
+    "hobbies": [
+        "cats",
+        "cars",
+        "music",
+        "F1",
+        "photography"
+    ],
+    "committed": 2,
+    "from": "Rockville, MD",
+    "Music": [],
+    "contact": {
+        "instagram": "@leo_lidl",
+        "snapchat": "leo_lidl"
+    },
+    "roomate": true
+}

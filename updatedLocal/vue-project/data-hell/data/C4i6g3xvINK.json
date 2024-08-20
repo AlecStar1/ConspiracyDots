@@ -1,0 +1,23 @@
+{
+    "name": "Andrew",
+    "gender": 1,
+    "major": [
+        "Advertising",
+        "Photography"
+    ],
+    "hobbies": [
+        "skiing",
+        "MMA",
+        "music",
+        "soccer",
+        "hanging out with friends"
+    ],
+    "committed": 2,
+    "contact": {
+        "instagram": "@andrew_hill74",
+        "snapchat": "andrew_hill74"
+    },
+    "from": "Newton, Mass.",
+    "Music": [],
+    "roomate": true
+}

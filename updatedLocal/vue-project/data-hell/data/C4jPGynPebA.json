@@ -1,0 +1,19 @@
+{
+    "name": "Julia",
+    "gender": 2,
+    "major": "Diagnostic Medical Sonography",
+    "hobbies": [
+        "shop",
+        "hang out with friends",
+        "go skiing",
+        "read"
+    ],
+    "committed": 1,
+    "from": "Utica, NY",
+    "contact": {
+        "instagram": "@julia.potrzeba",
+        "snapchat": "julia.potrzeba"
+    },
+    "Music": [],
+    "roomate": true
+}

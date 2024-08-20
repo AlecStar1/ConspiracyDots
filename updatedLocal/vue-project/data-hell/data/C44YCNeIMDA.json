@@ -1,0 +1,19 @@
+{
+    "name": "Jo\u00c3\u00abl Posy",
+    "gender": 1,
+    "major": "",
+    "hobbies": [
+        "music",
+        "woodworking",
+        "eating out with friends"
+    ],
+    "committed": 2,
+    "from": "Atlanta, Georgia",
+    "Music": [
+        "Neo Soul"
+    ],
+    "contact": {
+        "instagram": "@jo._papito"
+    },
+    "roomate": true
+}

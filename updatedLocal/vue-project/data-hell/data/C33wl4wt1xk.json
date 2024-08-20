@@ -1,0 +1,22 @@
+{
+    "name": "Grant",
+    "gender": 1,
+    "major": [
+        "Cybersecurity",
+        "Political Science"
+    ],
+    "from": "Denver, CO",
+    "hobbies": [
+        "music"
+    ],
+    "committed": 2,
+    "Music": [
+        "Rihanna",
+        "Nicki Minaj"
+    ],
+    "contact": {
+        "instagram": "@grant.h664",
+        "snapchat": "grant.h654"
+    },
+    "roomate": true
+}

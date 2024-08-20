@@ -1,0 +1,19 @@
+{
+    "name": "Harold",
+    "gender": 1,
+    "major": "ASL interpreting",
+    "minor": "industrial design",
+    "from": "DC",
+    "hobbies": [
+        "exploring new places",
+        "going out",
+        "playing video games",
+        "binge watching shows"
+    ],
+    "committed": 2,
+    "Music": [],
+    "contact": {
+        "instagram": "_@harold_bg"
+    },
+    "roomate": true
+}

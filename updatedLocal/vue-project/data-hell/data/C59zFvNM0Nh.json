@@ -1,0 +1,19 @@
+{
+    "name": "Kevin",
+    "gender": 1,
+    "major": "Mechanical Engineering Technology",
+    "from": "Warminster, Pennsylvania",
+    "hobbies": [
+        "Lifting",
+        "Throwing Shotput",
+        "Reading",
+        "Building"
+    ],
+    "committed": 3,
+    "Music": [],
+    "contact": {
+        "name": "Kevin",
+        "instagram": "@kevinthebookkid"
+    },
+    "roomate": true
+}

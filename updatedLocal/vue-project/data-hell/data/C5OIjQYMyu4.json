@@ -1,0 +1,19 @@
+{
+    "name": "Sophia",
+    "gender": 2,
+    "major": "chemical engineering",
+    "hobbies": [
+        "music",
+        "collecting vinyls"
+    ],
+    "committed": 1,
+    "from": "Westchester, NY",
+    "Music": [
+        "70s"
+    ],
+    "contact": {
+        "instagram": "@sophia.com777",
+        "snapchat": "sophia.com77"
+    },
+    "roomate": true
+}

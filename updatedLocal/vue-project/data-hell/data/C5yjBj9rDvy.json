@@ -1,0 +1,19 @@
+{
+    "name": "Dhrithi",
+    "gender": 1,
+    "major": "Global Business Management",
+    "from": "India",
+    "hobbies": [
+        "dancing",
+        "playing football",
+        "playing cricket",
+        "adventure"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@dhrii.offcc",
+        "snapchat": "dhrithi17"
+    },
+    "Music": [],
+    "roomate": true
+}

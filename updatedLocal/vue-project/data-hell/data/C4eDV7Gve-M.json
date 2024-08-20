@@ -1,0 +1,20 @@
+{
+    "name": "Lilly",
+    "gender": 2,
+    "major": "Packaging Science and International Communications",
+    "hobbies": [
+        "Traveling",
+        "Music",
+        "Reading",
+        "Hanging with friends",
+        "STEM outreach"
+    ],
+    "committed": 1,
+    "from": "Spencerport, NY",
+    "Music": [],
+    "contact": {
+        "Instagram": "@lillian.fleck",
+        "Snapchat": "@lillian.fleck"
+    },
+    "roomate": true
+}

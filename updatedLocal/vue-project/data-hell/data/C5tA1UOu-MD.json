@@ -1,0 +1,22 @@
+{
+    "name": "Sofia",
+    "gender": 2,
+    "major": "Electrical Engineering - Clean & Renewable Energy",
+    "hobbies": [
+        "reading",
+        "tennis",
+        "listening to music"
+    ],
+    "from": "Orange, CT",
+    "Music": [
+        "Bad Bunny",
+        "Rels B",
+        "The Weeknd"
+    ],
+    "contact": {
+        "instagram": "@sofia.x.silva",
+        "snapchat": "sofia.xsilva"
+    },
+    "committed": 1,
+    "roomate": true
+}

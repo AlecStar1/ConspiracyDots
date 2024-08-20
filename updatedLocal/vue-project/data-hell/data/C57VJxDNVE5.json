@@ -1,0 +1,27 @@
+{
+    "name": "Angel",
+    "gender": 1,
+    "major": [
+        "Political Science",
+        "Criminal Justice"
+    ],
+    "from": "Rochester, NY",
+    "hobbies": [
+        "Soccer",
+        "Indoor Track",
+        "Bowling",
+        "LAX",
+        "gaming",
+        "partying"
+    ],
+    "committed": 2,
+    "Music": [
+        "Pop",
+        "Rock",
+        "Electronic"
+    ],
+    "contact": {
+        "instagram": "@an_underrated_angel"
+    },
+    "roomate": false
+}

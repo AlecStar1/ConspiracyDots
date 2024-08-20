@@ -1,0 +1,18 @@
+{
+    "name": "Schmidt",
+    "gender": 1,
+    "major": "Microelectronic Engineering",
+    "from": "California",
+    "hobbies": [
+        "Gaming",
+        "Lifting",
+        "Chilling with friends"
+    ],
+    "committed": 2,
+    "contact": {
+        "instagram": "@schmidty84",
+        "snapchat": "schmidty203"
+    },
+    "Music": [],
+    "roomate": false
+}

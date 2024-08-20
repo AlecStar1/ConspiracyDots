@@ -1,0 +1,19 @@
+{
+    "name": "Gabriella Ginaldi",
+    "gender": 2,
+    "major": "ASL Interpreting",
+    "hobbies": [
+        "soccer",
+        "surfing",
+        "beach",
+        "track (sprints)"
+    ],
+    "committed": 1,
+    "from": "RIT",
+    "contact": {
+        "instagram": "@gabriella.ginaldi",
+        "snapchat": "gabbiginaldi"
+    },
+    "Music": [],
+    "roomate": true
+}

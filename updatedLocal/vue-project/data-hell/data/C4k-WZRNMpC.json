@@ -1,0 +1,19 @@
+{
+    "name": "Everett",
+    "gender": 1,
+    "major": "Mechatronics Engineering",
+    "from": "Ithaca, NY",
+    "hobbies": [
+        "skiing",
+        "rock climbing",
+        "kayaking",
+        "hanging out with people"
+    ],
+    "committed": 2,
+    "contact": {
+        "instagram": "_everett_groat_",
+        "snapchat": "everett_groat"
+    },
+    "Music": [],
+    "roomate": false
+}

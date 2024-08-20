@@ -1,0 +1,20 @@
+{
+    "name": "Shemar",
+    "gender": 1,
+    "major": "Game Design and Development, Cyber Security (Minor)",
+    "hobbies": [
+        "Reading Manga",
+        "Listening to Music",
+        "Playing Instruments",
+        "Playing Video Games"
+    ],
+    "committed": 2,
+    "contact": {
+        "instagram": "@glasgod_mar"
+    },
+    "from": "Washington DC",
+    "Music": [
+        "Meet Me @ The Altar"
+    ],
+    "roomate": true
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Arabella",
+    "gender": 2,
+    "major": "psychology",
+    "hobbies": [
+        "Girl Scouts",
+        "volunteering",
+        "baking/cooking",
+        "history",
+        "watching documentaries",
+        "track/active"
+    ],
+    "committed": 1,
+    "from": "Westborough, MA",
+    "Music": [],
+    "contact": {
+        "instagram": "@arabellarp27"
+    },
+    "roomate": true
+}

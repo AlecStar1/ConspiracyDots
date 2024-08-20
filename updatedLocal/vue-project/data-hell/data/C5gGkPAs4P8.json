@@ -1,0 +1,20 @@
+{
+    "name": "Semra",
+    "gender": 1,
+    "major": "Biomedical Engineering (Masters)",
+    "hobbies": [
+        "hanging out",
+        "shopping",
+        "playing video games",
+        "soccer",
+        "eating out"
+    ],
+    "committed": 2,
+    "from": "Long Island, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@sxemraa",
+        "snapchat": "sxemraa"
+    },
+    "roomate": true
+}

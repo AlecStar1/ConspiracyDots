@@ -1,0 +1,22 @@
+{
+    "name": "Dhriti",
+    "gender": 2,
+    "major": "Cybersecurity",
+    "hobbies": [
+        "hanging out with friends",
+        "shopping",
+        "going to the gym",
+        "listening to music",
+        "getting boba",
+        "watching movies",
+        "playing with my dog"
+    ],
+    "from": "Chester Springs, PA",
+    "Music": [],
+    "contact": {
+        "instagram": "@dhritimunagala",
+        "snapchat": "dhriti_mun"
+    },
+    "committed": 2,
+    "roomate": true
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Serena",
+    "gender": 2,
+    "committed": 2,
+    "hobbies": [
+        "Watching shows",
+        "Taking naps",
+        "Being outside",
+        "Going on spontaneous trips"
+    ],
+    "major": "Civil Engineering",
+    "from": "Lowell, MA",
+    "Music": [],
+    "contact": {
+        "Ignstagram": "_@serenanguyen",
+        "Snapchat": "serena.n123"
+    },
+    "roomate": true
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Jackie",
+    "gender": 1,
+    "committed": 1,
+    "hobbies": [
+        "Tennis",
+        "Badminton",
+        "Crew",
+        "Basketball",
+        "Hang out",
+        "Draw",
+        "Play flute"
+    ],
+    "major": {
+        "Current": "Undeclared Engineering",
+        "Planned": "Mechanical Engineering"
+    },
+    "from": null,
+    "Music": [],
+    "contact": {
+        "Instagram": "@jackier_7.0"
+    },
+    "roomate": true
+}

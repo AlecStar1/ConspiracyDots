@@ -1,0 +1,25 @@
+{
+    "name": "Leia",
+    "gender": 2,
+    "major": "Interior Design",
+    "hobbies": [
+        "Jewelry making",
+        "Painting",
+        "Hand tufting rugs",
+        "Making Halloween costumes",
+        "Video games"
+    ],
+    "committed": 1,
+    "from": "Upstate New York",
+    "Music": [
+        "Tim Curry",
+        "Falling in Reverse",
+        "Billie Holiday",
+        "Elvis",
+        "Blink-182"
+    ],
+    "contact": {
+        "instagram": "@coolcatleia"
+    },
+    "roomate": true
+}

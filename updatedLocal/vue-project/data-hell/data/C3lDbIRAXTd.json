@@ -1,0 +1,19 @@
+{
+    "name": "Kieran",
+    "gender": 1,
+    "major": "Cybersecurity",
+    "from": "Atlanta, GA",
+    "hobbies": [
+        "rowing",
+        "web development",
+        "outdoors",
+        "photography"
+    ],
+    "committed": 3,
+    "contact": {
+        "instagram": "@kieran_wittstruck",
+        "snapchat": "kwittstruck"
+    },
+    "Music": [],
+    "roomate": true
+}

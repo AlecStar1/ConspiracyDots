@@ -1,0 +1,21 @@
+{
+    "name": "Kylee",
+    "gender": 2,
+    "major": "Political Science and Cybersecurity",
+    "hobbies": [
+        "hockey games",
+        "concerts",
+        "hang out with friends"
+    ],
+    "committed": 1,
+    "from": "Oakland, NJ",
+    "Music": [
+        "Lana Del Rey",
+        "Arctic Monkeys"
+    ],
+    "contact": {
+        "instagram": "@kyleekublin30",
+        "snapchat": "kyleekublin"
+    },
+    "roomate": true
+}

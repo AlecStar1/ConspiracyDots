@@ -1,0 +1,19 @@
+{
+    "name": "Ryan Monemian",
+    "gender": 1,
+    "major": "Human-Centered Computing",
+    "hobbies": [
+        "Soccer",
+        "Eating",
+        "DJing",
+        "Going out with friends",
+        "Gym"
+    ],
+    "committed": 2,
+    "from": "Brooklyn, New York",
+    "Music": [],
+    "contact": {
+        "instagram": "@ryanmonemian"
+    },
+    "roomate": true
+}

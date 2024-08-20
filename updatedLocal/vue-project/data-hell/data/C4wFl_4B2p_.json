@@ -1,0 +1,22 @@
+{
+    "name": "Giselle",
+    "gender": 2,
+    "major": "Biomedical Science",
+    "from": "Williamstown, New Jersey",
+    "hobbies": [
+        "watching movies (any genre)",
+        "Legos",
+        "foodie",
+        "playing sports",
+        "music",
+        "working out",
+        "hanging out with my friends"
+    ],
+    "committed": 2,
+    "contact": {
+        "instagram": "@gizzelle.nottired",
+        "snapchat": "gizzelle.tired"
+    },
+    "Music": [],
+    "roomate": false
+}

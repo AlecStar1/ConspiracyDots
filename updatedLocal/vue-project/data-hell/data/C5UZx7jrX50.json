@@ -1,0 +1,19 @@
+{
+    "name": "Garret",
+    "gender": 1,
+    "major": "Cybersecurity",
+    "hobbies": [
+        "music",
+        "video games",
+        "spending time with friends",
+        "stagecrew"
+    ],
+    "committed": 1,
+    "from": "Pittsburgh, PA",
+    "contact": {
+        "instagram": "@garret.vasil_",
+        "snapchat": "garretvasil"
+    },
+    "Music": [],
+    "roomate": true
+}

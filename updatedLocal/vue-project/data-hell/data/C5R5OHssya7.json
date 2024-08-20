@@ -1,0 +1,18 @@
+{
+    "name": "Amy",
+    "gender": 2,
+    "major": "Game Design and Development",
+    "hobbies": [
+        "anime",
+        "drawing",
+        "playing games"
+    ],
+    "committed": 1,
+    "from": "Busan, South Korea",
+    "Music": [],
+    "contact": {
+        "snapchat": "al_0249",
+        "instagram": "@xx.sy_0249.xx"
+    },
+    "roomate": true
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Emmy",
+    "gender": 2,
+    "major": "Bioinformatics / Computational Biology",
+    "hobbies": [
+        "Reading",
+        "Video Games",
+        "Concerts",
+        "Music",
+        "Guitar",
+        "Crochet",
+        "Crafting",
+        "Wrestling",
+        "Pole Vault",
+        "Volleyball"
+    ],
+    "committed": 2,
+    "from": "Findlay, Ohio",
+    "Music": [],
+    "contact": {
+        "instagram": "@emmyc8n",
+        "snapchat": "emmyc8n"
+    },
+    "roomate": true
+}

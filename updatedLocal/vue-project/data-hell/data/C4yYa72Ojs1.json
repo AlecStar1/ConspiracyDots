@@ -1,0 +1,20 @@
+{
+    "name": "Julien Philippe-Auguste",
+    "gender": 1,
+    "major": "Civil Engineering",
+    "hobbies": [
+        "hanging with friends",
+        "watching TV",
+        "laughing",
+        "singing",
+        "roller skating"
+    ],
+    "committed": 1,
+    "from": "Aberdeen, Maryland",
+    "Music": [],
+    "contact": {
+        "instagram": "@julienphauguste",
+        "snapchat": "jalojdog"
+    },
+    "roomate": true
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Emily Jean Whiteford",
+    "gender": 2,
+    "major": "Art",
+    "hobbies": [
+        "movies",
+        "psychological thrillers",
+        "music",
+        "hiking",
+        "acting/theater",
+        "hanging out with friends"
+    ],
+    "committed": 2,
+    "from": "Pittsburgh, Pennsylvania",
+    "contact": {
+        "instagram": "@emily_jean_whiteford",
+        "snapchat": "ejwhiteford"
+    },
+    "Music": [],
+    "roomate": true
+}

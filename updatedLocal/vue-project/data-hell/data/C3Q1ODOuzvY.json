@@ -1,0 +1,19 @@
+{
+    "name": "Nick",
+    "from": "Hershey, PA",
+    "gender": 1,
+    "committed": 3,
+    "hobbies": [
+        "Gym",
+        "Fishing",
+        "Animals",
+        "Adventure"
+    ],
+    "major": "Mechanical Engineering Technology - Robotics and Automation",
+    "Music": [],
+    "contact": {
+        "Instagram": "@nick_paul27",
+        "Snapchat": "np_24_35"
+    },
+    "roomate": true
+}

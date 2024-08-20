@@ -1,0 +1,22 @@
+{
+    "name": "Noah Van Scoy",
+    "gender": 1,
+    "major": "Cybersecurity",
+    "hobbies": [
+        "hanging out with friends",
+        "swimming",
+        "ultimate frisbee",
+        "theater production",
+        "reading",
+        "watching TV shows and movies",
+        "playing games"
+    ],
+    "committed": 1,
+    "from": "Rochester, New York",
+    "Music": [],
+    "contact": {
+        "instagram": "@naohvs",
+        "snapchat": "naohvs2"
+    },
+    "roomate": true
+}

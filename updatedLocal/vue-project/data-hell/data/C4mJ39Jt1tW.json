@@ -1,0 +1,19 @@
+{
+    "name": "Phoebe",
+    "gender": 2,
+    "major": "Bio (Pre-Dental Track)",
+    "from": "Pocono, PA",
+    "hobbies": [
+        "Shopping",
+        "Concerts",
+        "Baking",
+        "Having a fun night out"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@phoebebramley.15",
+        "snapchat": "pheeb4"
+    },
+    "Music": [],
+    "roomate": true
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Zoe",
+    "gender": 2,
+    "major": "Mechanical Engineering",
+    "hobbies": [
+        "Meeting new people"
+    ],
+    "committed": 1,
+    "from": "Scottsdale, Arizona",
+    "Music": [],
+    "contact": {
+        "instagram": "@zoe_sferruzza",
+        "snapchat": "zoe_sferruzza"
+    },
+    "roomate": true
+}

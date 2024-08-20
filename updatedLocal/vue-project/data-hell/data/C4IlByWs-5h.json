@@ -1,0 +1,23 @@
+{
+    "name": "Grace Campbell",
+    "gender": 2,
+    "major": "New Media Design",
+    "from": "Greece, NY",
+    "hobbies": [
+        "art",
+        "creative writing",
+        "web design",
+        "listening to indie/pop music",
+        "playing guitar",
+        "theatre"
+    ],
+    "committed": 1,
+    "Music": [
+        "indie",
+        "pop"
+    ],
+    "contact": {
+        "instagram": "graceperhaps"
+    },
+    "roomate": false
+}

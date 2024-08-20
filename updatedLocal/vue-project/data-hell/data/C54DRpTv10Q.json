@@ -1,0 +1,20 @@
+{
+    "name": "Megan",
+    "gender": 2,
+    "major": "Graphic Design",
+    "hobbies": [
+        "hanging out",
+        "listening to music",
+        "reading books",
+        "watching movies/shows",
+        "working out"
+    ],
+    "committed": 1,
+    "from": "Buffalo NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@megankowalski25",
+        "snapchat": "mkowalski_25"
+    },
+    "roomate": true
+}

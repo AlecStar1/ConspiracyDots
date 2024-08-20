@@ -1,0 +1,19 @@
+{
+    "name": "Miranda",
+    "gender": 2,
+    "major": "Interior Design and Architecture",
+    "hobbies": [
+        "Concerts",
+        "Events",
+        "Video Games",
+        "Relaxing"
+    ],
+    "committed": 1,
+    "from": "PA",
+    "Music": [],
+    "contact": {
+        "Instagram": "@miranda_walter1",
+        "Snapchat": "miranda_walter1"
+    },
+    "roomate": true
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Wendy",
+    "gender": 2,
+    "major": "RIT (top choice)",
+    "hobbies": [
+        "music",
+        "movies"
+    ],
+    "committed": 2,
+    "from": "LA",
+    "Music": [
+        "Clairo",
+        "Fiona Apple",
+        "Harry Styles"
+    ],
+    "contact": {
+        "instagram": "@n3x.12"
+    },
+    "roomate": true
+}

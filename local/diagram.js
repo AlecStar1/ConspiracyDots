@@ -1,5 +1,32 @@
 // main code
 
+
+
+
+
+
+// TODO: basically if you select a node, i need a circle to appear at the center of the links
+// TODO: if you drag it, it will curve the line
+// !! what was this psycho thinking
+// !! that sounds like a pain for both user & me
+
+//* use the links offsetX and offsetY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // waits for all of the jsons before doing anything --irrevelant comment now
 gtag('event', 'select_shit', {
   'app_name': 'nodeproject-df641',
@@ -243,8 +270,24 @@ window.addEventListener('mousewheel', (event) => {
   //   .attr('y1', d => getNodeY(d.source)*height+offsetY+totaloffsetY)
   //   .attr('x2', d => getNodeX(d.target)*width+offsetX+totaloffsetX)
   //   .attr('y2', d => getNodeY(d.target)*height+offsetY+totaloffsetY)
-    return `M${getNodeX(d.source)*width+offsetX+totaloffsetX},${getNodeY(d.source)*height+offsetY+totaloffsetY}
-    ,${getNodeX(d.target)*width+offsetX+totaloffsetX},${getNodeY(d.target)*height+offsetY+totaloffsetY}`;
+    var pionts = [[getNodeX(d.source)*width+offsetX+totaloffsetX,getNodeY(d.source)*height+offsetY+totaloffsetY]
+    ,[getNodeX(d.target)*width+offsetX+totaloffsetX,getNodeY(d.target)*height+offsetY+totaloffsetY]];
+    
+    //* 1. get the middle between the line in 0-1
+    //* 2. add offset (AKA user addition)
+    //* 3. add to middle
+    //* 4. cry myself to sleep
+    // 1.
+    var middleX = (getNodeX(d.source) + getNodeX(d.target))/2;
+    var middleY = (getNodeY(d.source) + getNodeY(d.target))/2;
+    middleX += d.offsetX?d.offsetX:0;
+    middleY += d.offsetY?d.offsetY:0;
+
+    // 3.
+    pionts.splice(1, 0, [middleX*width+offsetX+totaloffsetX,middleY*height+offsetY+totaloffsetY])
+
+    const curve = d3.line().curve(d3.curveNatural);
+    return curve(pionts);
   }
   
   function refresh() { // initalizes the lines
@@ -253,10 +296,17 @@ window.addEventListener('mousewheel', (event) => {
   svg.selectAll('line')
     .data(links)
     .enter()
-    .append('path')
-    .attr("d", d => getPathData(d))
-    .attr('stroke-width', zoom)
-    .attr('stroke', 'lightgray');
+      .append('path')
+      .attr("fill","none")
+      .attr("source", d => d.source)
+      .attr("target", d => d.target)
+      .attr("d", d => getPathData(d))
+      .attr('stroke-width', zoom)
+      .attr('stroke', 'lightgray')
+        .enter().append('circle')
+        .attr("cx", "500")
+        .attr("cy", "500")
+        .attr("r", "11g")
 
   // initalizes the nodes
   const nodesSelection = svg.selectAll('.node')

@@ -1,0 +1,20 @@
+{
+    "name": "Vinona",
+    "gender": 2,
+    "major": "New Media Design",
+    "hobbies": [
+        "football",
+        "lego",
+        "watching Ghibli movies",
+        "video essays",
+        "journaling",
+        "playing video games"
+    ],
+    "committed": 2,
+    "from": "Mumbai",
+    "Music": [],
+    "contact": {
+        "instagram": "@v1n0n4_o"
+    },
+    "roomate": true
+}

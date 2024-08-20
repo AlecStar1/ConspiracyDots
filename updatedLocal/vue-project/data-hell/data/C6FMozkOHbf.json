@@ -1,0 +1,21 @@
+{
+    "name": "Anna Satter",
+    "gender": 2,
+    "major": "Photographic & Imaging Arts - Fine Art Photography",
+    "from": "Northern suburbs of Chicago, IL",
+    "hobbies": [
+        "hanging out with friends",
+        "going to sporting events",
+        "staying in",
+        "going out",
+        "going to concerts",
+        "exploring nature"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@annasatterr",
+        "snapchat": "asatter11"
+    },
+    "Music": [],
+    "roomate": true
+}

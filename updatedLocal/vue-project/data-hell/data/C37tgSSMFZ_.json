@@ -1,0 +1,18 @@
+{
+    "name": "Selin",
+    "gender": 2,
+    "major": "Mechanical Engineering with a focus in Aerospace",
+    "hobbies": [
+        "Socializing",
+        "Traveling",
+        "Having Fun"
+    ],
+    "committed": 3,
+    "from": "North Jersey",
+    "Music": [],
+    "contact": {
+        "instagram": "@selinnazdeniz",
+        "snapchat": "selinnn4z"
+    },
+    "roomate": true
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Kai Ledonio",
+    "gender": 1,
+    "major": null,
+    "from": "Gainesville, Florida",
+    "hobbies": [
+        "Art",
+        "Music",
+        "Nerdy things"
+    ],
+    "committed": 2,
+    "Music": [
+        "Artistic",
+        "Nerdy"
+    ],
+    "contact": {
+        "Instagram": "@kai.ledonio",
+        "Snapchat": "@kai.ledonio"
+    },
+    "roomate": true
+}

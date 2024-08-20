@@ -1,0 +1,23 @@
+{
+    "name": "Victoria",
+    "gender": 2,
+    "major": [
+        "Chemistry",
+        "Performing Arts"
+    ],
+    "from": "Pittsburgh, PA",
+    "hobbies": [
+        "Art",
+        "Music",
+        "Food",
+        "Volunteering",
+        "Hanging out with friends"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "@imma__kween",
+        "snapchat": "imma_kween"
+    },
+    "roomate": true
+}

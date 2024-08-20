@@ -1,0 +1,17 @@
+{
+    "name": "Alex",
+    "gender": 1,
+    "major": "Engineering Exploration",
+    "hobbies": [
+        "Frisbee",
+        "Drawing",
+        "Costume-making"
+    ],
+    "committed": 2,
+    "from": "Baltimore, MD",
+    "Music": [],
+    "contact": {
+        "instagram": "_@alexrichard_6"
+    },
+    "roomate": true
+}

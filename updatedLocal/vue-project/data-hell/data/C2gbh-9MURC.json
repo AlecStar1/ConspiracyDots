@@ -1,0 +1,25 @@
+{
+    "name": "Ethan",
+    "gender": 1,
+    "major": "Computing and Information Sciences",
+    "hobbies": [
+        "computer-related",
+        "audio-related",
+        "photography",
+        "running"
+    ],
+    "committed": 2,
+    "from": "Scranton, Pennsylvania",
+    "contact": {
+        "instagram": "@ethanfflynn"
+    },
+    "Music": [
+        "1930s big band",
+        "50s-60s soul",
+        "classic rock (Pink Floyd, Aerosmith, Queen, AC/DC, Lynyrd Skynyrd, Led Zeppelin)",
+        "jazz",
+        "R&B",
+        "barbershop quartets"
+    ],
+    "roomate": true
+}

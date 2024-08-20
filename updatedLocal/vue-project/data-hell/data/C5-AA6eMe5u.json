@@ -1,0 +1,21 @@
+{
+    "name": "Parker",
+    "gender": 1,
+    "major": "Physician Assistant (BS/MS)",
+    "hobbies": [
+        "hanging out with friends",
+        "meeting new people",
+        "being active outdoors",
+        "listening to music",
+        "snowboarding",
+        "playing basketball"
+    ],
+    "committed": 1,
+    "from": "Rochester",
+    "contact": {
+        "instagram": "@pspence7",
+        "snapchat": "parker.spence"
+    },
+    "Music": [],
+    "roomate": true
+}

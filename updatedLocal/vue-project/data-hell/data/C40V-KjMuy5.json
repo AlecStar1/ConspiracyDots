@@ -1,0 +1,19 @@
+{
+    "name": "Lexi",
+    "gender": 2,
+    "major": "chemical engineering",
+    "hobbies": [
+        "reading",
+        "playing video games",
+        "the gym",
+        "wrestling (WWE)",
+        "movies and filmmaking"
+    ],
+    "committed": 1,
+    "from": "Arizona",
+    "Music": [],
+    "contact": {
+        "instagram": "@out_of_the_blue_"
+    },
+    "roomate": true
+}

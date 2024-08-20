@@ -1,0 +1,23 @@
+{
+    "name": "hi",
+    "gender": 1,
+    "major": "medical illustration",
+    "minor": "fine arts",
+    "hobbies": [
+        "reading",
+        "playing guitar",
+        "listening to alternative and rock music",
+        "making art"
+    ],
+    "committed": 1,
+    "from": "buffalo, new york",
+    "Music": [
+        "alternative",
+        "rock"
+    ],
+    "contact": {
+        "instagram": "@spiritofarc",
+        "snapchat": "spiritofarcc"
+    },
+    "roomate": true
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Hannah",
+    "gender": 2,
+    "major": "Film and Animation (Animation Major)",
+    "hobbies": [
+        "Drawing",
+        "Fantasy RPG",
+        "Cozy Game"
+    ],
+    "committed": 1,
+    "from": "Central New York",
+    "Music": [],
+    "contact": {
+        "type": "Instagram",
+        "value": "_@critique07"
+    },
+    "roomate": true
+}

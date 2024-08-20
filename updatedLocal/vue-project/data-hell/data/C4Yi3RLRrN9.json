@@ -1,0 +1,20 @@
+{
+    "name": "Bella",
+    "gender": 2,
+    "major": "Graphic Media and Technology with a minor in Packaging Science",
+    "hobbies": [
+        "hanging out with friends",
+        "going to concerts",
+        "shopping",
+        "going out to dinner",
+        "watching movies"
+    ],
+    "committed": 2,
+    "from": "Livonia, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@b.e.l.l.a.11",
+        "snapchat": "ricottaa11"
+    },
+    "roomate": true
+}

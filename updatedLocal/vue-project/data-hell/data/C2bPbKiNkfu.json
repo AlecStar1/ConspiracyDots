@@ -1,0 +1,17 @@
+{
+    "name": "Gregory Hine",
+    "gender": 1,
+    "major": "Business (undecided)",
+    "hobbies": [
+        "spending time with friends",
+        "lifting",
+        "running"
+    ],
+    "committed": 2,
+    "from": null,
+    "Music": [],
+    "contact": {
+        "instagram": "@gregory_hine_"
+    },
+    "roomate": true
+}

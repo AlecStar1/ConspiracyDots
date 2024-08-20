@@ -1,0 +1,18 @@
+{
+    "name": "Brooke",
+    "gender": 2,
+    "major": "ASLIE",
+    "minor": "women's studies",
+    "hobbies": [
+        "supporting the LGBTQ+ community",
+        "joining groups on campus"
+    ],
+    "committed": 1,
+    "from": "Cleveland, Ohio (formerly lived in Arizona)",
+    "Music": [],
+    "contact": {
+        "instagram": "@brookelee.e",
+        "snapchat": "brookelee.ee"
+    },
+    "roomate": true
+}

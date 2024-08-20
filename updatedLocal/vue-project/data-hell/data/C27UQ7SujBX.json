@@ -1,0 +1,19 @@
+{
+    "name": "Kyla",
+    "gender": 2,
+    "major": "ASL Interpreting",
+    "hobbies": [
+        "rock climbing",
+        "dance",
+        "concerts",
+        "skiing"
+    ],
+    "committed": 1,
+    "from": "RIT (Rochester Institute of Technology)",
+    "contact": {
+        "name": "@kylamduffy",
+        "type": "Instagram"
+    },
+    "Music": [],
+    "roomate": true
+}

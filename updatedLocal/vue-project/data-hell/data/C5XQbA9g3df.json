@@ -1,0 +1,19 @@
+{
+    "name": "Jack",
+    "gender": 1,
+    "major": "Accounting",
+    "hobbies": [
+        "working out",
+        "golfing",
+        "watching shows and movies",
+        "sports"
+    ],
+    "from": "Rochester, New York",
+    "Music": [],
+    "contact": {
+        "instagram": "@jackbayerl13",
+        "snapchat": "j_bayerl22"
+    },
+    "committed": 2,
+    "roomate": true
+}

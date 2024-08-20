@@ -1,0 +1,24 @@
+{
+    "name": "Kayla",
+    "gender": 2,
+    "major": [
+        "Political Science",
+        "Psychology"
+    ],
+    "hobbies": [
+        "Horseback Riding",
+        "Water Skiing",
+        "Snow Skiing",
+        "Lifting",
+        "Going to the Beach",
+        "Spend quality time with friends"
+    ],
+    "committed": 2,
+    "from": "",
+    "Music": [],
+    "contact": {
+        "name": "Instagram: kayla.faye.stam",
+        "username": "kaystam999"
+    },
+    "roomate": true
+}

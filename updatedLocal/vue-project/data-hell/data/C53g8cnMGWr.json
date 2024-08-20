@@ -1,0 +1,19 @@
+{
+    "name": "Aaron",
+    "gender": 1,
+    "major": "Computer Engineering",
+    "hobbies": [
+        "Automotive Racing",
+        "Pole vaulting",
+        "listening to music",
+        "watching movies"
+    ],
+    "committed": 2,
+    "from": "Long Island, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@speedieaaron",
+        "snapchat": "speedieaaron"
+    },
+    "roomate": true
+}

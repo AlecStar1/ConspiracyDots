@@ -1,0 +1,22 @@
+{
+    "name": "Katrina Harasts",
+    "gender": 2,
+    "major": "",
+    "from": "",
+    "hobbies": [
+        "figure skating",
+        "coaching",
+        "dancing",
+        "photography",
+        "traveling",
+        "building Legos",
+        "watching movies"
+    ],
+    "committed": 3,
+    "Music": [],
+    "contact": {
+        "instagram": "@k_harasts24",
+        "snapchat": "katrina_harasts24"
+    },
+    "roomate": true
+}

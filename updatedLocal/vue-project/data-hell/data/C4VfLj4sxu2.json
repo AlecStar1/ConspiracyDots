@@ -1,0 +1,26 @@
+{
+    "name": "Nora",
+    "gender": 2,
+    "major": "Photojournalism",
+    "hobbies": [
+        "animals",
+        "being outdoors",
+        "running and lifting",
+        "making art of all kinds",
+        "crocheting",
+        "playing violin",
+        "listening to lots of music",
+        "hanging out with friends",
+        "reading/writing",
+        "traveling"
+    ],
+    "committed": 1,
+    "from": "Rochester, New York",
+    "Music": [
+        "lots of music"
+    ],
+    "contact": {
+        "instagram": "@nora_babbitt"
+    },
+    "roomate": true
+}

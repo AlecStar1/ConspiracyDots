@@ -1,0 +1,20 @@
+{
+    "name": "Thomas Armandi",
+    "gender": 1,
+    "major": "Criminal Justice",
+    "hobbies": [
+        "Hockey",
+        "Baseball",
+        "Football",
+        "Lifting",
+        "Reading"
+    ],
+    "committed": 1,
+    "from": "RIT",
+    "Music": [],
+    "contact": {
+        "instagram": "@forcedtosetthisup",
+        "snapchat": "teastrikes"
+    },
+    "roomate": true
+}

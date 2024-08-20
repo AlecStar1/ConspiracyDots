@@ -1,0 +1,26 @@
+{
+    "name": "Riley Powell",
+    "gender": 1,
+    "major": "Humanities, Computing and Design",
+    "from": "Middlebury, Connecticut",
+    "hobbies": [
+        "film and storytelling",
+        "building Legos",
+        "listening to music",
+        "playing music",
+        "Martial Arts",
+        "hiking",
+        "video games",
+        "comics",
+        "watching movies"
+    ],
+    "committed": 1,
+    "Music": [
+        "Bruno Mars",
+        "Laufey"
+    ],
+    "contact": {
+        "instagram": "@realriledup06"
+    },
+    "roomate": true
+}

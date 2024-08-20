@@ -1,0 +1,18 @@
+{
+    "name": "Thomas",
+    "gender": 1,
+    "major": "Biochemistry",
+    "hobbies": [
+        "singing",
+        "video games",
+        "hanging out with friends"
+    ],
+    "committed": 1,
+    "from": "New York and the Netherlands",
+    "contact": {
+        "instagram": "@thomasversantvoort",
+        "snapchat": "tversantvoort05"
+    },
+    "Music": [],
+    "roomate": true
+}

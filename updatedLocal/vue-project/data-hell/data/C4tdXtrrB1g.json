@@ -1,0 +1,27 @@
+{
+    "name": "Kieran",
+    "gender": 1,
+    "major": "Game Design and Development",
+    "hobbies": [
+        "music",
+        "movies",
+        "video games",
+        "comics",
+        "Legos",
+        "Marvel",
+        "Star Wars"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@kieranjod",
+        "snapchat": "kieran_od11"
+    },
+    "from": "Long Island, New York",
+    "Music": [
+        "Juice WRLD",
+        "Lil Uzi Vert",
+        "Trippie Redd",
+        "Lil Darkie"
+    ],
+    "roomate": true
+}

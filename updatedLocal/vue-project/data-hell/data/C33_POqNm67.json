@@ -1,0 +1,19 @@
+{
+    "name": "Lauren",
+    "gender": 2,
+    "major": "Business Exploration",
+    "hobbies": [
+        "Cheerleading",
+        "Skiing",
+        "Listening to music",
+        "Hanging out with friends"
+    ],
+    "committed": 1,
+    "from": "Rochester, NY",
+    "contact": {
+        "instagram": "_@lauren_nichols",
+        "snapchat": "laurennichols24"
+    },
+    "Music": [],
+    "roomate": true
+}

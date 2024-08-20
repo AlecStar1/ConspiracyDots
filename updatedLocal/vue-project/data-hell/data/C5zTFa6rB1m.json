@@ -1,0 +1,22 @@
+{
+    "name": "Evan",
+    "gender": 1,
+    "major": "Computer Science",
+    "from": "Not Mentioned",
+    "hobbies": [
+        "Tennis",
+        "Cooking",
+        "Listening to Music"
+    ],
+    "committed": 1,
+    "Music": [
+        "Florence + The Machine",
+        "Phoebe Bridgers",
+        "The Score"
+    ],
+    "contact": {
+        "type": "Instagram",
+        "value": "@evabntus"
+    },
+    "roomate": true
+}

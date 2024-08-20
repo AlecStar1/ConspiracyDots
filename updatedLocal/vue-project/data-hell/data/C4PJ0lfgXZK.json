@@ -1,0 +1,17 @@
+{
+    "name": "Olivia",
+    "gender": 2,
+    "major": "Medical Illustration",
+    "hobbies": [
+        "reading",
+        "ecology",
+        "music"
+    ],
+    "committed": 1,
+    "from": "Lake Stevens, Washington",
+    "Music": [],
+    "contact": {
+        "instagram": "@livashore"
+    },
+    "roomate": true
+}

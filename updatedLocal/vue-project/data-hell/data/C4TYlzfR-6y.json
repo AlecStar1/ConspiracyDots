@@ -1,0 +1,19 @@
+{
+    "name": "Luke",
+    "gender": 1,
+    "major": "Mechanical Engineering with a focus on Aerospace",
+    "hobbies": [
+        "Hockey",
+        "Working out",
+        "Going out with friends",
+        "Watching movies"
+    ],
+    "committed": 1,
+    "from": "Rochester, NY area",
+    "Music": [],
+    "contact": {
+        "instagram": "@lukeherring.34",
+        "snapchat": "luke.herring34"
+    },
+    "roomate": true
+}

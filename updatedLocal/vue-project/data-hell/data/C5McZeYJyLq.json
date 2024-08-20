@@ -1,0 +1,25 @@
+{
+    "name": "Ben",
+    "gender": 1,
+    "major": "Computer Science",
+    "hobbies": [
+        "Singing",
+        "Cello",
+        "Running",
+        "Eurovision",
+        "Virtual Reality"
+    ],
+    "committed": 2,
+    "from": "Seattle",
+    "Music": [
+        "Beyonc\u00c3\u00a9",
+        "UPSAHL",
+        "St. Vincent",
+        "Tyler the Creator"
+    ],
+    "contact": {
+        "Instagram": "@bensaminthegrove",
+        "Snapchat": "bensam6246"
+    },
+    "roomate": true
+}

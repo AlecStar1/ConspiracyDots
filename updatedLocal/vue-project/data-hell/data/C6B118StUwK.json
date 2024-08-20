@@ -1,0 +1,19 @@
+{
+    "name": "David Lusignan",
+    "gender": 1,
+    "major": "Chem",
+    "hobbies": [
+        "reading",
+        "playing chess (USCF 2000)",
+        "lifting",
+        "public speaking",
+        "debating"
+    ],
+    "committed": 1,
+    "from": "Brighton, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@david.lusignan"
+    },
+    "roomate": true
+}

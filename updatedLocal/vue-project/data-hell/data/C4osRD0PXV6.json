@@ -1,0 +1,19 @@
+{
+    "name": "Fletcher",
+    "gender": 1,
+    "major": "Mechanical Engineering",
+    "hobbies": [
+        "theater",
+        "snowboarding",
+        "food",
+        "having a good time"
+    ],
+    "committed": 1,
+    "from": "Leonardtown, MD",
+    "contact": {
+        "instagram": "@yourstruly.fletcher",
+        "snapchat": "qauppi"
+    },
+    "Music": [],
+    "roomate": true
+}

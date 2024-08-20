@@ -1,0 +1,23 @@
+{
+    "name": "Rylee",
+    "gender": 2,
+    "major": "Illustration",
+    "hobbies": [
+        "Theater",
+        "Music",
+        "Video Games"
+    ],
+    "committed": 1,
+    "from": "Auburn, New York",
+    "Music": [
+        "David Bowie",
+        "N.E.R.D",
+        "Tyler the Creator",
+        "Nirvana",
+        "Ariana Grande"
+    ],
+    "contact": {
+        "Instagram": "@rsmyle7"
+    },
+    "roomate": true
+}

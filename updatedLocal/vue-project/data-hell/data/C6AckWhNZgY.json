@@ -1,0 +1,20 @@
+{
+    "name": "Tina",
+    "gender": 2,
+    "major": "New Media Design",
+    "hobbies": [
+        "reading webnovels",
+        "drawing",
+        "physical activities (dancing, etc.)"
+    ],
+    "from": [
+        "NYC",
+        "Philly"
+    ],
+    "Music": [],
+    "contact": {
+        "instagram": "@tfish536"
+    },
+    "committed": 3,
+    "roomate": true
+}

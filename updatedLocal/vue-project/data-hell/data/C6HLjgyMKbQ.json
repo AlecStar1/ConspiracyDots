@@ -1,0 +1,20 @@
+{
+    "name": "Rishaad",
+    "gender": 1,
+    "major": "Computer Programming and Computer Hardware",
+    "hobbies": [
+        "code",
+        "video games",
+        "YouTube",
+        "sleep",
+        "tennis",
+        "experiment with technology"
+    ],
+    "committed": 2,
+    "from": "NJ, originally from Guyana",
+    "contact": {
+        "instagram": "@khan_rishaad"
+    },
+    "Music": [],
+    "roomate": true
+}

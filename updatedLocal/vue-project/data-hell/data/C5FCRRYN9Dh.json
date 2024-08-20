@@ -1,0 +1,25 @@
+{
+    "name": "Kate",
+    "gender": 2,
+    "major": "Computer Science",
+    "hobbies": [
+        "climbing",
+        "going to gym",
+        "drawing",
+        "playing guitar",
+        "swimming",
+        "snowboarding",
+        "listening to music"
+    ],
+    "committed": 2,
+    "from": "Korea",
+    "Music": [
+        "Frank Ocean",
+        "SZA"
+    ],
+    "contact": {
+        "instagram": "@etakny_",
+        "snapchat": "katekim126"
+    },
+    "roomate": true
+}

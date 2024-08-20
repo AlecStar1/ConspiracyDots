@@ -1,0 +1,20 @@
+{
+    "name": "Ryan",
+    "gender": 1,
+    "major": null,
+    "hobbies": [
+        "Hockey",
+        "Skiing",
+        "Lifting",
+        "Cooking",
+        "Hanging out with friends"
+    ],
+    "committed": 1,
+    "from": "Cape Cod, MA",
+    "Music": null,
+    "contact": {
+        "instagram": "_@_ryancollins20",
+        "snapchat": "rcollins2049"
+    },
+    "roomate": true
+}

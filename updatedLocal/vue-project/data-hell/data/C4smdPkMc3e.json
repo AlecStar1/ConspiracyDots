@@ -1,0 +1,24 @@
+{
+    "name": "Shlok Trivedi",
+    "gender": 1,
+    "major": {
+        "type": "Packaging Science",
+        "level": "BS/MS"
+    },
+    "hobbies": [
+        "work out",
+        "biking",
+        "drawing",
+        "watching movies",
+        "hanging out with friends",
+        "solving puzzles"
+    ],
+    "committed": 1,
+    "from": "Rochester, New York",
+    "Music": [],
+    "contact": {
+        "Instagram": "@shloktrivedi_",
+        "Snapchat": "shlokomotive"
+    },
+    "roomate": true
+}

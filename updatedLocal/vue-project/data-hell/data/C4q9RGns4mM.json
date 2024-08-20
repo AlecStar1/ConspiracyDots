@@ -1,0 +1,25 @@
+{
+    "name": "Isabella",
+    "gender": 2,
+    "major": "Sonography (exploring the liberal arts program for now)",
+    "hobbies": [
+        "Baking",
+        "Watching movies",
+        "Traveling",
+        "Art (Pottery specifically)",
+        "Hanging with friends",
+        "Listening to music"
+    ],
+    "committed": 1,
+    "from": "Marlboro, New Jersey",
+    "Music": [
+        "J. Cole",
+        "Tyler the Creator",
+        "Drake"
+    ],
+    "contact": {
+        "instagram": "@isabellaaaaaa_20",
+        "snapchat": "@isa.bellllaaaaa"
+    },
+    "roomate": true
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Mili",
+    "gender": 2,
+    "major": "Biomedical Sciences",
+    "hobbies": [
+        "walking",
+        "hanging out w friends",
+        "video games",
+        "rap music",
+        "baking",
+        "community service"
+    ],
+    "committed": 1,
+    "from": "New Jersey, originally from Argentina",
+    "contact": {
+        "instagram": "@mililomb24",
+        "snapchat": "mililomb"
+    },
+    "Music": [
+        "rap music"
+    ],
+    "roomate": true
+}

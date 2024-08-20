@@ -1,0 +1,16 @@
+{
+    "name": "Claire",
+    "gender": 2,
+    "major": "Mechanical Engineering",
+    "hobbies": [
+        "meeting new people"
+    ],
+    "committed": 1,
+    "from": "Utica, NY",
+    "contact": {
+        "instagram": "@csurprenantt",
+        "snapchat": "@csurprenanttt"
+    },
+    "Music": [],
+    "roomate": true
+}

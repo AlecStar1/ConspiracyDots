@@ -1,0 +1,24 @@
+{
+    "name": "Jonah Kovach",
+    "gender": 1,
+    "major": "Mechanical Engineering",
+    "hobbies": [
+        "comic book fan (Marvel and Star Wars)",
+        "watching movies",
+        "building LEGOs",
+        "playing video games with friends",
+        "drumming (school and band)",
+        "sabre fencing"
+    ],
+    "committed": 1,
+    "from": "White Plains, Westchester NY",
+    "Music": [
+        "Marvel",
+        "Star Wars",
+        "rock music"
+    ],
+    "contact": {
+        "instagram": "@j.kov_18"
+    },
+    "roomate": true
+}

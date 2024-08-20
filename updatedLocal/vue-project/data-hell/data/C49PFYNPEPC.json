@@ -1,0 +1,24 @@
+{
+    "name": "Patricia",
+    "gender": 2,
+    "major": [
+        "Psychology",
+        "Sociology & Anthropology"
+    ],
+    "hobbies": [
+        "singing",
+        "playing piano",
+        "writing music",
+        "cooking",
+        "watching true crime documentaries",
+        "Harry Potter marathons",
+        "spending time with animals"
+    ],
+    "committed": 2,
+    "from": "Brooklyn, NYC",
+    "Music": [],
+    "contact": {
+        "instagram": "@patricia.gadir"
+    },
+    "roomate": true
+}

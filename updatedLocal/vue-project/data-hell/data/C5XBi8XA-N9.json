@@ -1,0 +1,19 @@
+{
+    "name": "Ali Arif",
+    "gender": 1,
+    "major": "management information systems",
+    "hobbies": [
+        "gaming",
+        "basketball",
+        "volleyball",
+        "eating",
+        "hanging out with friends"
+    ],
+    "committed": 3,
+    "from": "RIT",
+    "Music": [],
+    "contact": {
+        "snapchat": "aliarif368"
+    },
+    "roomate": true
+}

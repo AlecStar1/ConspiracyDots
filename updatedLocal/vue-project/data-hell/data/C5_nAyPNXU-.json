@@ -1,0 +1,17 @@
+{
+    "name": "Eliza",
+    "gender": 2,
+    "major": "Print and Graphic Media Technology",
+    "hobbies": [
+        "music",
+        "art",
+        "vintage"
+    ],
+    "committed": 1,
+    "from": "Syracuse, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@eliza_gramiak"
+    },
+    "roomate": true
+}

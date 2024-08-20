@@ -1,0 +1,24 @@
+{
+    "name": "Sam Martin",
+    "gender": 1,
+    "major": "Biomedical Engineering",
+    "minor": "Electrical Engineering",
+    "hobbies": [
+        "music",
+        "nature",
+        "working out",
+        "coaching",
+        "dogs"
+    ],
+    "committed": 2,
+    "from": "Falls Church/Northern Virginia",
+    "Music": [
+        "Paramore",
+        "TV on the Radio",
+        "Neil Young"
+    ],
+    "contact": {
+        "instagram": "@smartin_martins"
+    },
+    "roomate": true
+}

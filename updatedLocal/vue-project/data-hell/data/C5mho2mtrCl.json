@@ -1,0 +1,18 @@
+{
+    "name": "Brooke",
+    "gender": 2,
+    "major": "Engineering (undecided)",
+    "hobbies": [
+        "reading",
+        "drawing",
+        "crocheting",
+        "baking"
+    ],
+    "committed": 1,
+    "contact": {
+        "instagram": "@brookenrook"
+    },
+    "from": "Upstate NY",
+    "Music": [],
+    "roomate": true
+}

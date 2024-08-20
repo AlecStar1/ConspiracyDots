@@ -1,0 +1,19 @@
+{
+    "name": "Nikoo",
+    "gender": 2,
+    "major": "Medical Illustration",
+    "hobbies": [
+        "art",
+        "reading",
+        "hiking/exploring",
+        "playing video games"
+    ],
+    "committed": 1,
+    "from": "Maryland",
+    "Music": [],
+    "contact": {
+        "instagram": "@nikoo.nn",
+        "snapchat": "@nikoo.nn"
+    },
+    "roomate": true
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Caleb Popovic",
+    "gender": 1,
+    "major": "Psychology",
+    "hobbies": [
+        "music",
+        "hanging out with friends",
+        "doing things with others"
+    ],
+    "committed": 2,
+    "from": "Erie, PA",
+    "contact": {
+        "instagram": "@calebrpm",
+        "snapchat": "calebrpb"
+    },
+    "Music": [
+        "soul",
+        "90s grunge",
+        "jazz",
+        "folk",
+        "indie",
+        "rock"
+    ],
+    "roomate": true
+}

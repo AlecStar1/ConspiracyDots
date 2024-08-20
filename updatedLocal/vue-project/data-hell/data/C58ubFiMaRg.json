@@ -1,0 +1,21 @@
+{
+    "name": "Nishi",
+    "gender": 1,
+    "major": "Chemistry",
+    "hobbies": [
+        "reading",
+        "music",
+        "TV shows"
+    ],
+    "committed": 1,
+    "from": "Hamburg, PA",
+    "Music": [
+        "alt rock",
+        "indie music"
+    ],
+    "contact": {
+        "instagram": "@nishivacancy",
+        "snapchat": "nishivacancy"
+    },
+    "roomate": true
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Kenna Olejarnik",
+    "gender": 1,
+    "major": "undecided (creative)",
+    "hobbies": [
+        "skiing",
+        "swimming",
+        "boating",
+        "drawing/painting"
+    ],
+    "from": "small hometown",
+    "contact": {
+        "instagram": "@k.olejarnik",
+        "snapchat": "k.olejarnik"
+    },
+    "committed": 3,
+    "Music": [],
+    "roomate": true
+}

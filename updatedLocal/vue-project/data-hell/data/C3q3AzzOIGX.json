@@ -1,0 +1,20 @@
+{
+    "name": "Madi",
+    "gender": 2,
+    "committed": 3,
+    "hobbies": [
+        "Art",
+        "Concerts",
+        "Hanging out with friends"
+    ],
+    "major": "Graphic Design",
+    "from": "Lakeville, PA",
+    "Music": [
+        "Rap",
+        "Kpop"
+    ],
+    "contact": {
+        "Instagram": "@dprmadi"
+    },
+    "roomate": true
+}

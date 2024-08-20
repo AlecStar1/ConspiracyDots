@@ -1,0 +1,23 @@
+{
+    "name": "Gabrielle",
+    "gender": 2,
+    "major": "Biomedical Engineering",
+    "hobbies": [
+        "animals",
+        "music",
+        "getting random ear piercings",
+        "going shopping"
+    ],
+    "committed": 1,
+    "from": "Rochester, NY",
+    "Music": [
+        "SZA",
+        "Phoebe Bridgers",
+        "Phem"
+    ],
+    "contact": {
+        "instagram": "@gabriellemontijo",
+        "snapchat": "gabymonj"
+    },
+    "roomate": true
+}

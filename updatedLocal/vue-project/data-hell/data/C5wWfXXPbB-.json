@@ -1,0 +1,21 @@
+{
+    "name": "Bella",
+    "gender": 2,
+    "major": "",
+    "from": "Massachusetts",
+    "hobbies": [
+        "hanging out with friends",
+        "listening to Afro beats and RnB",
+        "singing",
+        "thrifting"
+    ],
+    "committed": 2,
+    "Music": [
+        "Afro beats",
+        "RnB"
+    ],
+    "contact": {
+        "instagram": "@bellatibagwa"
+    },
+    "roomate": true
+}

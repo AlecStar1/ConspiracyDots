@@ -1,0 +1,21 @@
+{
+    "name": "Marissa",
+    "gender": 2,
+    "major": "Advertising and Public Relations",
+    "hobbies": [
+        "tennis",
+        "drawing",
+        "watching Adventure time",
+        "watching Queens Gambit"
+    ],
+    "committed": 1,
+    "from": "RIT",
+    "Music": [
+        "Mitski"
+    ],
+    "contact": {
+        "instagram": "@marissahura",
+        "snapchat": "marissahura"
+    },
+    "roomate": true
+}

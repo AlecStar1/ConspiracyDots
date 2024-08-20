@@ -1,0 +1,29 @@
+{
+    "name": "Eva",
+    "gender": 2,
+    "major": "Psychology",
+    "hobbies": [
+        "dancing",
+        "coffee",
+        "reading",
+        "fashion",
+        "cooking",
+        "music",
+        "hanging out with friends"
+    ],
+    "committed": 3,
+    "from": "Rochester, NY",
+    "Music": [
+        "SZA",
+        "Tame Impala",
+        "Tyler the Creator",
+        "Frank Ocean",
+        "Clairo",
+        "Drake",
+        "Harry Styles"
+    ],
+    "contact": {
+        "instagram": "@evaapetersonn"
+    },
+    "roomate": true
+}

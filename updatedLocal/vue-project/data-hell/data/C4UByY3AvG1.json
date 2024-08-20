@@ -1,0 +1,26 @@
+{
+    "name": "Carmella",
+    "gender": 2,
+    "major": "Hospitality and Tourism Management",
+    "hobbies": [
+        "watching Korean dramas",
+        "watching Chinese dramas",
+        "watching Japanese dramas",
+        "anime"
+    ],
+    "committed": 1,
+    "from": "Syracuse, NY",
+    "Music": [
+        "BTS",
+        "Blackpink",
+        "IU",
+        "Zack Tabudlo",
+        "Jona",
+        "Morissette"
+    ],
+    "contact": {
+        "instagram": "@carmella.martin__",
+        "snapchat": "carmella.martin"
+    },
+    "roomate": true
+}

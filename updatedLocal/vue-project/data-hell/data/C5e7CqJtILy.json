@@ -1,0 +1,24 @@
+{
+    "name": "Katherine Timony",
+    "gender": 2,
+    "major": "Industrial Engineering (BS/MS)",
+    "hobbies": [
+        "listening to music",
+        "reading",
+        "snowboarding",
+        "watching movies",
+        "running"
+    ],
+    "committed": 1,
+    "from": "Pearl River, NY",
+    "contact": {
+        "instagram": "@kat.tims",
+        "snapchat": "kat.tims"
+    },
+    "Music": [
+        "Phoebe Bridgers",
+        "Mitski",
+        "TV Girl"
+    ],
+    "roomate": true
+}

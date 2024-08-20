@@ -1,0 +1,20 @@
+{
+    "name": "Mikayla",
+    "gender": 2,
+    "major": "Illustration",
+    "hobbies": [
+        "drawing",
+        "reading",
+        "music",
+        "Art History"
+    ],
+    "committed": 1,
+    "from": "Pittsburgh PA",
+    "Music": [
+        "music"
+    ],
+    "contact": {
+        "instagram": "@mikaylakorch11"
+    },
+    "roomate": true
+}

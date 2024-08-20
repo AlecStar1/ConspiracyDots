@@ -1,0 +1,16 @@
+{
+    "name": "Caleb Silverman",
+    "gender": 1,
+    "major": "Mechanical Engineering Automotive option",
+    "hobbies": [
+        "playing pretty much every sport",
+        "working out"
+    ],
+    "committed": 3,
+    "from": "San Diego, CA",
+    "Music": [],
+    "contact": {
+        "instagram": "@silvermanforge"
+    },
+    "roomate": true
+}

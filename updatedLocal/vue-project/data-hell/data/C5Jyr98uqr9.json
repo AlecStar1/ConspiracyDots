@@ -1,0 +1,24 @@
+{
+    "name": "Brandon",
+    "gender": 1,
+    "major": "New Media Interactive Development",
+    "minor": "Game Design and Development",
+    "from": "Montvale, New Jersey",
+    "hobbies": [
+        "video games",
+        "Chess",
+        "Board Games",
+        "movies",
+        "anime",
+        "reading",
+        "technology",
+        "gym"
+    ],
+    "committed": 3,
+    "Music": [],
+    "contact": {
+        "Instagram": "@brandk13",
+        "Snapchat": "bkass613"
+    },
+    "roomate": true
+}

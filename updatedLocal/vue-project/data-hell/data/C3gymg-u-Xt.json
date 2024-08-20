@@ -1,0 +1,22 @@
+{
+    "name": "Nathan",
+    "gender": 1,
+    "major": "",
+    "hobbies": [
+        "running",
+        "skiing",
+        "ultimate frisbee",
+        "jigsaw puzzles",
+        "art",
+        "being outdoors"
+    ],
+    "committed": 2,
+    "from": "Yarmouth, Maine",
+    "Music": [
+        "Ed Sheeran"
+    ],
+    "contact": {
+        "instagram": "@nathan_barmby"
+    },
+    "roomate": true
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Ariel",
+    "gender": 2,
+    "major": "Industrial Design",
+    "hobbies": [
+        "art",
+        "jewelry making",
+        "ceramics",
+        "drawing"
+    ],
+    "committed": 1,
+    "from": "Livingston NJ",
+    "Music": [
+        "pop",
+        "musical theater"
+    ],
+    "contact": {
+        "instagram": "@ari_el_l_551"
+    },
+    "roomate": true
+}

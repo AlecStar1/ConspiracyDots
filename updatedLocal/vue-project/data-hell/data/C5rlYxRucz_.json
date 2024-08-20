@@ -1,0 +1,23 @@
+{
+    "name": "Kate",
+    "gender": 2,
+    "major": "Mechanical Engineering",
+    "hobbies": [
+        "going out with friends",
+        "listening to music",
+        "dancing",
+        "traveling"
+    ],
+    "committed": 3,
+    "from": null,
+    "contact": {
+        "instagram": "@kate_czyrny",
+        "snapchat": "katiekinz121"
+    },
+    "Music": [
+        "Benson Boone",
+        "Lana Del Rey",
+        "SZA"
+    ],
+    "roomate": true
+}

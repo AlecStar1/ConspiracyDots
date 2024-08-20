@@ -1,0 +1,24 @@
+{
+    "name": "Caleb",
+    "gender": 1,
+    "major": "Engineering Exploration (with focus on Mechanical Engineering)",
+    "from": "San Diego, CA",
+    "hobbies": [
+        "building computers",
+        "mechanical keyboards",
+        "mountain bikes",
+        "cinematography",
+        "Good music",
+        "AFJROTC"
+    ],
+    "committed": 2,
+    "Music": [
+        ""
+    ],
+    "contact": {
+        "socialMedia": {
+            "instagram": "@clb.shn"
+        }
+    },
+    "roomate": true
+}

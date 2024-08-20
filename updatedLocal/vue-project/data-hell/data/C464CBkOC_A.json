@@ -1,0 +1,20 @@
+{
+    "name": "Jaclyn",
+    "gender": 2,
+    "major": "Advertising and PR",
+    "hobbies": [
+        "music",
+        "food",
+        "fashion"
+    ],
+    "committed": 3,
+    "from": "NYC",
+    "Music": [
+        "deep conversations"
+    ],
+    "contact": {
+        "instagram": "@jaxsatch",
+        "snapchat": "jax-satch"
+    },
+    "roomate": true
+}

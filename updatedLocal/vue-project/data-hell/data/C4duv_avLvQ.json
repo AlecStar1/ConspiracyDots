@@ -1,0 +1,19 @@
+{
+    "name": "Eli",
+    "gender": 1,
+    "major": "bio",
+    "hobbies": [
+        "music",
+        "animals"
+    ],
+    "committed": 1,
+    "from": "Trumbull, CT",
+    "Music": [
+        "marimba"
+    ],
+    "contact": {
+        "instagram": "@elinolan840",
+        "snapchat": "eli_nolan8"
+    },
+    "roomate": false
+}

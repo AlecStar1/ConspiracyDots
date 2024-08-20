@@ -1,0 +1,17 @@
+{
+    "name": "Aidan",
+    "gender": 1,
+    "major": "Bio-Medical Science",
+    "hobbies": [
+        "exploring new places",
+        "making new friends"
+    ],
+    "committed": 2,
+    "from": "RIT",
+    "Music": [],
+    "contact": {
+        "instagram": "@aidan_jad",
+        "snapchat": "jadwin20"
+    },
+    "roomate": false
+}

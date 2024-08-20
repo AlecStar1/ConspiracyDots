@@ -1,0 +1,20 @@
+{
+    "name": "Aidan",
+    "gender": 1,
+    "major": "Cybersecurity",
+    "hobbies": [
+        "music",
+        "going to concerts",
+        "video games",
+        "exploring places and trying new things",
+        "playing/talking about sports"
+    ],
+    "committed": 2,
+    "from": "Howell, New Jersey",
+    "Music": [],
+    "contact": {
+        "instagram": "@aidan_pacheco15",
+        "snapchat": "aidan_pacheco15"
+    },
+    "roomate": true
+}

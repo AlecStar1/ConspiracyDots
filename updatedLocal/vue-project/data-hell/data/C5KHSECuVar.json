@@ -1,0 +1,26 @@
+{
+    "name": "Joshuana",
+    "gender": 2,
+    "major": "Civil Engineering",
+    "hobbies": [
+        "gardening",
+        "taking nature walks",
+        "working out",
+        "cooking",
+        "trying out different cuisines",
+        "watching kdramas",
+        "listening to music"
+    ],
+    "committed": 2,
+    "from": "North Carolina",
+    "contact": {
+        "instagram": "@ugc.signedtuna"
+    },
+    "Music": [
+        "Anri",
+        "Kanye",
+        "Lana del Ray",
+        "Tame Impala"
+    ],
+    "roomate": true
+}

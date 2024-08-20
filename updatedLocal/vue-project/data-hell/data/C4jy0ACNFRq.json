@@ -1,0 +1,27 @@
+{
+    "name": "Noelle Marie",
+    "gender": 2,
+    "major": [
+        "accounting/finance",
+        "dietetics/exercise science"
+    ],
+    "from": "Peruvian and Italian",
+    "hobbies": [
+        "volleyball",
+        "basketball",
+        "going to the gym",
+        "hanging out with friends",
+        "loving food"
+    ],
+    "committed": 1,
+    "Music": [
+        "brent faiyaz",
+        "future",
+        "bad bunny"
+    ],
+    "contact": {
+        "instagram": "@noelle.marie05",
+        "snapchat": "noellemarie.05"
+    },
+    "roomate": true
+}

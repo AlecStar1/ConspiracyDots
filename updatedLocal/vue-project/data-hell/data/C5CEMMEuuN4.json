@@ -1,0 +1,20 @@
+{
+    "name": "Nate Flaherty",
+    "gender": 1,
+    "major": "Film & Animation",
+    "from": "Braintree, MA",
+    "hobbies": [
+        "Minecraft",
+        "COD",
+        "Fortnite",
+        "Terraria",
+        "Chess",
+        "Board games"
+    ],
+    "committed": 1,
+    "Music": [],
+    "contact": {
+        "instagram": "https://www.instagram.com/_nate_the.great_?igsh=awjyajdwbwxonwvu"
+    },
+    "roomate": true
+}

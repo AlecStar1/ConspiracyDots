@@ -1,0 +1,20 @@
+{
+    "name": "Greta",
+    "from": "Ithaca, New York",
+    "gender": 2,
+    "committed": 1,
+    "hobbies": [
+        "dance",
+        "music",
+        "watching sunsets",
+        "making art",
+        "hanging out with friends"
+    ],
+    "major": "Visual Arts",
+    "Music": [],
+    "contact": {
+        "Instagram": "@greta.sanford111",
+        "Snapchat": "greta050706"
+    },
+    "roomate": true
+}

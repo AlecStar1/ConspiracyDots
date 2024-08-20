@@ -1,0 +1,18 @@
+{
+    "name": "Sydney Borofsky",
+    "gender": 1,
+    "major": "Mechanical Engineering Technology",
+    "hobbies": [
+        "running cross country and track and field",
+        "hiking",
+        "karate"
+    ],
+    "committed": 2,
+    "from": "Easton, Connecticut",
+    "Music": [],
+    "contact": {
+        "instagram": "@sydney_borofsky",
+        "snapchat": "sydneyb0706"
+    },
+    "roomate": true
+}

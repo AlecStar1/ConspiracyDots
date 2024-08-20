@@ -1,0 +1,20 @@
+{
+    "name": "Logan",
+    "gender": 1,
+    "major": "animation",
+    "from": "Abington, PA",
+    "hobbies": [
+        "drawing",
+        "drumming",
+        "voice acting",
+        "going for walks",
+        "running a blog"
+    ],
+    "committed": 3,
+    "Music": [],
+    "contact": {
+        "instagram": "@papa_abraham_lincoln",
+        "snapchat": "papa_logey"
+    },
+    "roomate": true
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Kayla",
+    "gender": 2,
+    "committed": 1,
+    "hobbies": [
+        "dance",
+        "reading",
+        "listening to music",
+        "watching movies/tv shows"
+    ],
+    "major": "Chemistry",
+    "contact": {
+        "Ignore": "Instagram: @kaykay_zelano"
+    },
+    "from": "New Castle, Delaware",
+    "Music": [
+        "Taylor Swift",
+        "Olivia Rodrigo",
+        "Broadway"
+    ],
+    "roomate": true
+}

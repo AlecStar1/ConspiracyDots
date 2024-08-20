@@ -1,0 +1,20 @@
+{
+    "name": "Connor",
+    "gender": 1,
+    "major": [
+        "Civil Engineering",
+        "Physics"
+    ],
+    "hobbies": [
+        "Skiing",
+        "Playing video games",
+        "Hanging out with friends"
+    ],
+    "committed": 2,
+    "from": "Syracuse, NY",
+    "Music": [],
+    "contact": {
+        "instagram": "@connorknohl57"
+    },
+    "roomate": true
+}
