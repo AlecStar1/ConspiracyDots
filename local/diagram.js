@@ -592,18 +592,24 @@ refresh()
   
   // support code to find the amount of times a node appears
   function countAppearences(id, source, target){
+    var out = 0
     
-    if(source === undefined) source = true;
-    if(target === undefined) target = true;
-    let count = 0;
-    links.forEach(link => {
-      if(link.source == id && source)
-          count++;
-        if(link.target == id && target)
-          count++;
-    });
+    links.forEach((e) =>{
+      if (e.source == id && e.target != source) {out++;
+      out += countAppearences(e.target, source)}
+    })
+    return out
+    //if(source === undefined) source = true;
+    //if(target === undefined) target = true;
+    //let count = 0;
+    //links.forEach(link => {
+    //  if(link.source == id && source)
+    //      count++;
+    //    if(link.target == id && target)
+    //      count++;
+    //});
     // console.log(count)
-    return count
+    //return count
   }
 
 
